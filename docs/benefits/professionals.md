@@ -4,7 +4,7 @@ title: Professionals
 
 ### Benefits For Professionals
 
-The **Professional** has many advantages in choosing to receive their remuneration through the **Protocol**. The person gains benefits offered by the community and in the case of DAOs, also gains business ownership. The idea is that the **Community** Fee is lower than the fees employed by market gateways, so it will be a negotiation with few barriers for the Professional to have their **Contractor** pay through the **Protocol**.
+The [**Professional**](/the-protocol/roles/#professional) has many advantages in choosing to receive their remuneration through the **Protocol**. The person gains benefits offered by the community and in the case of DAOs, also gains business ownership. The idea is that the [**Community**](/the-protocol/roles/#community) Fee is lower than the fees employed by market gateways, so it will be a negotiation with few barriers for the Professional to have their [**Contractor**](/the-protocol/roles/#contractor) pay through the **Protocol**.
 
 - Community benefits
 - Proof of resume

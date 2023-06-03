@@ -37,14 +37,23 @@ export default defineUserConfig({
           '/benefits'
         ],
       },
-      '/definitions',
+      '/concepts',
       {
         text: 'The Protocol',
         children: [
-          '/roles',
-          '/definitions'
+          '/the-protocol/overview',
+          '/the-protocol/roles',
+          '/the-protocol/definitions'
         ],
       },
+      {
+        text: 'About',
+        children: [
+          '/about/founders',
+          '/about/web3dev'
+        ],
+      },
+      '/faq'
 
       // {
       //   text: 'Benefits',

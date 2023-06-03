@@ -40,25 +40,25 @@ The protocol functions as a payment gateway that distributes the money received,
 
 ## How it works
 
-**Community** leaders decide to implement the Protocol so that all members can benefit and the **Community** has a source of revenue. Initially, the leaders determine the **Community Fee** , a percentage that will be charged on the amount of all services provided by participating members. This decision can be delegated to the members later on. Additionally, the **Community Token** will be minted, a unique token that will be distributed to participating members. This token can be used in gamification mechanisms or community governance, at the discretion of each one.
+[**Community**](/the-protocol/roles/#community) leaders decide to implement the Protocol so that all members can benefit and the [**Community**](/the-protocol/roles/#community) has a source of revenue. Initially, the leaders determine the [**Community Fee**](/the-protocol/definitions/#community-fee) , a percentage that will be charged on the amount of all services provided by participating members. This decision can be delegated to the members later on. Additionally, the **Community Token** will be minted, a unique token that will be distributed to participating members. This token can be used in gamification mechanisms or community governance, at the discretion of each one.
 
 From this moment on, community members can use the tool and the protocol to receive compensation for all services rendered to their clients. The use of the protocol is not mandatory. The protocol provides a contract management and billing tool for the member to use.
 
 To participate in the protocol, the member will need to go through a KYC (Know Your Customer) and AML (Anti Money Laundering) process and create a verified account. In this account, the member will register their crypto wallets from the networks supported by the Protocol.
 
-The member then registers a **Contract** in the protocol that represents the service provision they negotiated with a client. This **Contract** will reference the **Contractor** , the description of the services, the agreed amount, the type of payment (single, installment, or recurring) and the Skills involved in this service provision, with a weight for each **Skill**. For example, if it is a contract to be a backend software developer in the Javascript language, they will be able to choose the Javascript skill with a weight of 100%, or they can choose two or more skills (e.g.: Javascript and Node.js), giving a weight of 50% for each one. All this information will be useful for the hiring process and future work and will be explained further below.
+The member then registers a [**Contract**](/the-protocol/definitions/#contract) in the protocol that represents the service provision they negotiated with a client. This [**Contract**](/the-protocol/definitions/#contract) will reference the [**Contractor**](/the-protocol/roles/#contractor) , the description of the services, the agreed amount, the type of payment (single, installment, or recurring) and the Skills involved in this service provision, with a weight for each [**Skill**](/the-protocol/definitions/#skill). For example, if it is a contract to be a backend software developer in the Javascript language, they will be able to choose the Javascript skill with a weight of 100%, or they can choose two or more skills (e.g.: Javascript and Node.js), giving a weight of 50% for each one. All this information will be useful for the hiring process and future work and will be explained further below.
 
 After having an active contract, approved by the company to execute the service, when billing their services to the hiring company, the member issues an invoice against their client from the **Billing Tool**.
 
-The invoice includes the charge for the services performed and the community fee. Suppose the **Community Fee** is 5%, then a salary of $10,000 will generate an invoice for $10,500 for the company to pay. That's $10,000 for the Professional and $500 for the Community.
+The invoice includes the charge for the services performed and the community fee. Suppose the [**Community Fee**](/the-protocol/definitions/#community-fee) is 5%, then a salary of $10,000 will generate an invoice for $10,500 for the company to pay. That's $10,000 for the Professional and $500 for the Community.
 
 In the description of the services, the **Skills** defined by the member will be highlighted so that the company can validate and confirm that the skills are really present in the service delivery.
 
-The payment data will inform the payment address in cryptocurrencies on the network chosen by the member at the time of invoice issuance. The network to be used is an agreement between the professional and the hiring company. The payment must necessarily be made in cryptocurrencies because of the benefits generated for the **Professional** and the **Community** , which will be explained below.
+The payment data will inform the payment address in cryptocurrencies on the network chosen by the member at the time of invoice issuance. The network to be used is an agreement between the professional and the hiring company. The payment must necessarily be made in cryptocurrencies because of the benefits generated for the [**Professional**](/the-protocol/roles/#professional) and the [**Community**](/the-protocol/roles/#community) , which will be explained below.
 
-Upon receiving the invoice, the company makes the Payment to the informed address, an address generated by the **Protocol** that will process the **Payment**.
+Upon receiving the invoice, the company makes the Payment to the informed address, an address generated by the **Protocol** that will process the [**Payment**](/the-protocol/definitions/#payment).
 
-Upon receiving a **Payment** , the **Protocol** will automatically know who the money comes from, under which Contract this payment is relative, who is the hired Professional, and under which Community this contract is being governed.
+Upon receiving a [**Payment**](/the-protocol/definitions/#payment) , the **Protocol** will automatically know who the money comes from, under which Contract this payment is relative, who is the hired Professional, and under which Community this contract is being governed.
 
 Immediately upon receiving the money, the protocol will then split the payment:
 
@@ -70,7 +70,7 @@ Immediately upon receiving the money, the protocol will then split the payment:
 
 The Skills Index record will be used by the member as a resume proof. At any time, the professional can prove that they worked effectively with certain technologies, tools, or processes because this proof is related to how much money they actually received for performing a service. The higher the index, the longer the professional has worked with that skill or the more senior they are, considering that seniority is directly related to the price that the professional can charge in the market. Ultimately, the more money received, the more experience the person has.
 
-The member can mint an NFT that will be updated with the weight of that Skill and the community can create a ranking of professionals by skills, which will make it easier for companies to find talents as they need them. This NFT is Soulbound, i.e., it cannot be transferred between Wallets. The community will have a revenue stored in its treasury because of the **Community Fee** and can use the resources to offer benefits to its members, such as:
+The member can mint an NFT that will be updated with the weight of that Skill and the community can create a ranking of professionals by skills, which will make it easier for companies to find talents as they need them. This NFT is Soulbound, i.e., it cannot be transferred between Wallets. The community will have a revenue stored in its treasury because of the [**Community Fee**](/the-protocol/definitions/#community-fee) and can use the resources to offer benefits to its members, such as:
 
 - Benefit club with discounts at establishments of interest to the community
 - Active search for hiring companies to be customers hiring the members,
@@ -86,13 +86,13 @@ The DAO token may have liquidity in the secondary market and will appreciate as 
 
 ### Entities
 
-**Community** : The community is an organization that brings together Professionals, generally from the same field of activity, generates benefits for members and provides recruitment, selection service for **Contractors** who wish to recruit community members.
+[**Community**](/the-protocol/roles/#community) : The community is an organization that brings together Professionals, generally from the same field of activity, generates benefits for members and provides recruitment, selection service for **Contractors** who wish to recruit community members.
 
-**Member** : An individual, of legal age, who is part of the community and is legally capable of performing service for others.
+[**Member**](/the-protocol/roles/#member) : An individual, of legal age, who is part of the community and is legally capable of performing service for others.
 
-**Professional** : A company, usually one-person, that provides the service performed by the person who is a member of the **Community**. Every member who wants to use the protocol needs to have a company. **Professionals** need to have an Identity to use the protocol.
+[**Professional**](/the-protocol/roles/#professional) : A company, usually one-person, that provides the service performed by the person who is a member of the [**Community**](/the-protocol/roles/#community). Every member who wants to use the protocol needs to have a company. **Professionals** need to have an Identity to use the protocol.
 
-**Contractor** : A company that demands the services of the **Professional** and uses the Community to find the professionals and hire them. **Contractors** need to have an Identity to use the protocol.
+[**Contractor**](/the-protocol/roles/#contractor) : A company that demands the services of the [**Professional**](/the-protocol/roles/#professional) and uses the Community to find the professionals and hire them. **Contractors** need to have an Identity to use the protocol.
 
 ### Concepts
 
@@ -100,7 +100,7 @@ The DAO token may have liquidity in the secondary market and will appreciate as 
 
 **Tools** : Set of software that runs centrally on servers hosted by the company that provides the **Protocol** service. These systems can be replaced by any other developed by third parties or by the community itself.
 
-**Identity** : A unique record that is saved in the protocol and represents a company, whether it's a **Professional** or a **Contractor** , after undergoing a process of KYC (Know Your Client) and AML (Anti Money Laundering). Each **Professional** and **Contractor** can have only one Identity in the system. The Identity is associated with some document of legal value in the country where the company's document is registered. Natural persons cannot create Identities in the protocol.
+**Identity** : A unique record that is saved in the protocol and represents a company, whether it's a [**Professional**](/the-protocol/roles/#professional) or a [**Contractor**](/the-protocol/roles/#contractor) , after undergoing a process of KYC (Know Your Client) and AML (Anti Money Laundering). Each [**Professional**](/the-protocol/roles/#professional) and [**Contractor**](/the-protocol/roles/#contractor) can have only one Identity in the system. The Identity is associated with some document of legal value in the country where the company's document is registered. Natural persons cannot create Identities in the protocol.
 
 **Wallet** : The public address of the wallet on the blockchain of one of the networks used by the Protocol. An Identity can have multiple Wallets associated with its registration.
 
@@ -108,39 +108,39 @@ The DAO token may have liquidity in the secondary market and will appreciate as 
 
 ### Architecture
 
-**Community Fee** : Percentage of the value of the services provided by the Professional that is retained for the **Treasury** so that the **Community** can use it for the benefit of all **Members**.
+[**Community Fee**](/the-protocol/definitions/#community-fee) : Percentage of the value of the services provided by the Professional that is retained for the **Treasury** so that the [**Community**](/the-protocol/roles/#community) can use it for the benefit of all **Members**.
 
-**Community Token** : Cryptocurrency that is given to the **Professional** with each **Payment** received and can be used as a gateway to access certain areas or services provided to the community or can be used as a governance token if the community has an interest in becoming a DAO (Decentralized Autonomous Organization).
+**Community Token** : Cryptocurrency that is given to the [**Professional**](/the-protocol/roles/#professional) with each [**Payment**](/the-protocol/definitions/#payment) received and can be used as a gateway to access certain areas or services provided to the community or can be used as a governance token if the community has an interest in becoming a DAO (Decentralized Autonomous Organization).
 
-**Contract** : Service provision relationship between the Professional and the Contractor. When using the protocol, one of the two creates the **Contract** so that payments can be made from there.
+[**Contract**](/the-protocol/definitions/#contract) : Service provision relationship between the Professional and the Contractor. When using the protocol, one of the two creates the [**Contract**](/the-protocol/definitions/#contract) so that payments can be made from there.
 
-**Skill** : Record of a skill or knowledge required by the provision of the service that is associated with the **Contract**. This record will have a number associated with it that will represent the total financial amount received by Contracts that required a certain Skill. Badges will be created from the Skills.
+[**Skill**](/the-protocol/definitions/#skill) : Record of a skill or knowledge required by the provision of the service that is associated with the [**Contract**](/the-protocol/definitions/#contract). This record will have a number associated with it that will represent the total financial amount received by Contracts that required a certain Skill. Badges will be created from the Skills.
 
-**Invoice** : Commercial document that records the details of a Payment related to the Contract established between the Contractor and the Professional. The invoice includes the value of the services performed, the Community Fee, the description of the services, the associated Skills, and the payment information.
+[**Invoice**](/the-protocol/definitions/#invoice) : Commercial document that records the details of a Payment related to the Contract established between the Contractor and the Professional. The invoice includes the value of the services performed, the Community Fee, the description of the services, the associated Skills, and the payment information.
 
-**Payment** : Transfer made by the **Contractor** to the **Protocol** for the payment of an Invoice. The Protocol takes care of making the split, transferring the value of the **Community** Fee to the Treasury, the Protocol Fee to the Protocol's wallet, and the remainder to the **Professional**. In addition to transferring the **Community Tokens** to the **Professional**.
+[**Payment**](/the-protocol/definitions/#payment) : Transfer made by the [**Contractor**](/the-protocol/roles/#contractor) to the **Protocol** for the payment of an Invoice. The Protocol takes care of making the split, transferring the value of the [**Community**](/the-protocol/roles/#community) Fee to the Treasury, the Protocol Fee to the Protocol's wallet, and the remainder to the [**Professional**](/the-protocol/roles/#professional). In addition to transferring the **Community Tokens** to the [**Professional**](/the-protocol/roles/#professional).
 
-**Badges** : Proof of experience that the Professional can mint in the form of an NFT that has the record of the Skills and their indices. The Badge is only a way to prove the Skills.
+[**Badges**](/the-protocol/definitions/#badges) : Proof of experience that the Professional can mint in the form of an NFT that has the record of the Skills and their indices. The Badge is only a way to prove the Skills.
 
 ## Summarized Dynamics
 
-The **Community** implements the **Protocol**.
+The [**Community**](/the-protocol/roles/#community) implements the **Protocol**.
 
-**Contractors** can recruit in the **Community**.
+**Contractors** can recruit in the [**Community**](/the-protocol/roles/#community).
 
 **Professionals** receive **Community Tokens** and **Badge** NFTs as proof of skills.
 
-The **Community** uses the **Treasury** accumulated with the **Community Fee** to offer benefits to **Professionals**.
+The [**Community**](/the-protocol/roles/#community) uses the **Treasury** accumulated with the [**Community Fee**](/the-protocol/definitions/#community-fee) to offer benefits to **Professionals**.
 
-The **Contractor** saves on human resources benefits.
+The [**Contractor**](/the-protocol/roles/#contractor) saves on human resources benefits.
 
-If the **Community** is a DAO, the **Professional** becomes the owner of the **Payment Gateway** they chose to use to receive their payments.
+If the [**Community**](/the-protocol/roles/#community) is a DAO, the [**Professional**](/the-protocol/roles/#professional) becomes the owner of the **Payment Gateway** they chose to use to receive their payments.
 
 ## Benefits
 
 ### For the Community
 
-The **Community** gains a sustainable business model by offering the possibility of its members being hired by third parties. The business model consists of maintaining an active engaged community, offering the market the service of optimized recruitment and selection, using the money raised to offer benefits to Members and to the hired Professionals.
+The [**Community**](/the-protocol/roles/#community) gains a sustainable business model by offering the possibility of its members being hired by third parties. The business model consists of maintaining an active engaged community, offering the market the service of optimized recruitment and selection, using the money raised to offer benefits to Members and to the hired Professionals.
 
 - Sustainable business model
 - Recurring revenue source
@@ -150,7 +150,7 @@ The **Community** gains a sustainable business model by offering the possibility
 
 ### For Professionals
 
-The **Professional** has many advantages in choosing to receive their remuneration through the **Protocol**. The person gains benefits offered by the community and in the case of DAOs, also gains business ownership. The idea is that the **Community** Fee is lower than the fees employed by market gateways, so it will be a negotiation with few barriers for the Professional to have their **Contractor** pay through the **Protocol**.
+The [**Professional**](/the-protocol/roles/#professional) has many advantages in choosing to receive their remuneration through the **Protocol**. The person gains benefits offered by the community and in the case of DAOs, also gains business ownership. The idea is that the [**Community**](/the-protocol/roles/#community) Fee is lower than the fees employed by market gateways, so it will be a negotiation with few barriers for the Professional to have their [**Contractor**](/the-protocol/roles/#contractor) pay through the **Protocol**.
 
 - Community benefits
 - Proof of resume
@@ -162,7 +162,7 @@ The **Professional** has many advantages in choosing to receive their remunerati
 
 ### For Contractors
 
-Contractors benefit from their process of hiring services from freelancers or solo entrepreneurs. The **Protocol** facilitates the recruitment and selection of talents from a **Community** that gathers Professionals from the same field of work. It is possible to find the ideal person in one place.
+Contractors benefit from their process of hiring services from freelancers or solo entrepreneurs. The **Protocol** facilitates the recruitment and selection of talents from a [**Community**](/the-protocol/roles/#community) that gathers Professionals from the same field of work. It is possible to find the ideal person in one place.
 
 - Community Benefits for the hired
 - Proof of hiring

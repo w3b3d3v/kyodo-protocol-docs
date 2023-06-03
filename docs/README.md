@@ -15,14 +15,14 @@ The protocol functions as a payment gateway that distributes the money received,
 
 ## In a Nutshell
 
-The **Community** implements the **Protocol**.
+The [**Community**](/the-protocol/roles/#community) implements the **Protocol**.
 
-**Contractors** can recruit in the **Community**.
+**Contractors** can recruit in the [**Community**](/the-protocol/roles/#community).
 
 **Professionals** receive **Community Tokens** and **Badge** NFTs as proof of skills.
 
-The **Community** uses the **Treasury** accumulated with the **Community Fee** to offer benefits to **Professionals**.
+The [**Community**](/the-protocol/roles/#community) uses the **Treasury** accumulated with the [**Community Fee**](/the-protocol/definitions/#community-fee) to offer benefits to **Professionals**.
 
-The **Contractor** saves on human resources benefits.
+The [**Contractor**](/the-protocol/roles/#contractor) saves on human resources benefits.
 
-If the **Community** is a DAO, the **Professional** becomes the owner of the **Payment Gateway** they chose to use to receive their payments.
+If the [**Community**](/the-protocol/roles/#community) is a DAO, the [**Professional**](/the-protocol/roles/#professional) becomes the owner of the **Payment Gateway** they chose to use to receive their payments.
