@@ -18,6 +18,7 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
   width: 200px;
   max-width: 100%;
   position: relative;
+  float: right;
   right: 0;
   top: 2em;
   margin: 0rem 2.5rem 4rem 1rem;
