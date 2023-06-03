@@ -10,7 +10,7 @@ import { tocPlugin } from '@vuepress/plugin-toc'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default defineUserConfig({
-  title: "Kyodo Protocol",
+  title: "共同 Kyodo Protocol",
   permalinkPattern: ':slug',
   theme: defaultTheme({
     // default theme config

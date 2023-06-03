@@ -1,5 +1,4 @@
-# Kyodo Protocol
-
+# 共同 Kyodo Protocol
 Sustainable Business Model for Service Communities and DAOs
 
 <!-- vide goes here -->
