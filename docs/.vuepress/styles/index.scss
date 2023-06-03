@@ -1,9 +1,19 @@
+// Branding
+:root {
+  --c-brand: #af3e7c;
+  --c-brand-light: #bf4a8a;
+}
+html.dark {
+  --c-brand: #a63a75;
+  --c-brand-light: #943469;
+}
+
 // Back to Top Plugin
 :root {
   --back-to-top-z-index: 5;
 
-  --back-to-top-color: #3eaf7c;
-  --back-to-top-color-hover: #71cda3;
+  --back-to-top-color: #af3e7c;
+  --back-to-top-color-hover: #cd71a3;
 }
 
 // External Link Icon Plugin
