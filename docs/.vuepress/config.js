@@ -10,7 +10,7 @@ import { tocPlugin } from '@vuepress/plugin-toc'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default defineUserConfig({
-  title: "Community Protocol",
+  title: "Kyodo Protocol",
   permalinkPattern: ':slug',
   theme: defaultTheme({
     // default theme config
@@ -26,7 +26,7 @@ export default defineUserConfig({
     sidebar: [
       // SidebarItem
       {
-        text: 'Community Protocol',
+        text: 'Kyodo Protocol',
         link: '/',
       },
       {
@@ -54,8 +54,8 @@ export default defineUserConfig({
       //   ],
       // },
     ],
-    repo: "https://github.com/w3b3d3v/community-protocol",
-    docsRepo: "https://github.com/w3b3d3v/community-protocol-docs",
+    repo: "https://github.com/w3b3d3v/kyodo-protocol",
+    docsRepo: "https://github.com/w3b3d3v/kyodo-protocol-docs",
   }),
   plugins: [
     googleAnalyticsPlugin({

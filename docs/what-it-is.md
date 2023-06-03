@@ -4,7 +4,7 @@ title: What It Is
 
 # What It Is
 
-The **Community Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
+The **Kyodo Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
 
 The protocol offers a software infrastructure that solves companies' problem in hiring professionals, generates benefits and proof of experience for the hired professionals, and enables a sustainable business model for communities.
 
