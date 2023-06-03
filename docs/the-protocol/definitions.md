@@ -1,8 +1,8 @@
 ---
-title: Architecture
+title: Definitions
 ---
 
-# Architecture
+# Definitions
 
 ## Community Fee
 Percentage of the value of the services provided by the Professional that is retained for the **Treasury** so that the **Community** can use it for the benefit of all **Members**.

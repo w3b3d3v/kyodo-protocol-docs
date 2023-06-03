@@ -37,14 +37,15 @@ export default defineUserConfig({
           '/benefits'
         ],
       },
+      '/definitions',
       {
-        text: 'Definitions',
+        text: 'The Protocol',
         children: [
-          '/entities',
-          '/concepts',
-          '/architecture'
+          '/roles',
+          '/definitions'
         ],
       },
+
       // {
       //   text: 'Benefits',
       //   children: [
@@ -54,7 +55,7 @@ export default defineUserConfig({
       //   ],
       // },
     ],
-    repo: "https://github.com/w3b3d3v/kyodo-protocol",
+    repo: "https://github.com/w3b3d3v/kyodo-protocol-docs",
     docsRepo: "https://github.com/w3b3d3v/kyodo-protocol-docs",
   }),
   plugins: [

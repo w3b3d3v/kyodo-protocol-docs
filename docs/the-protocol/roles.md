@@ -1,8 +1,8 @@
 ---
-title: Entities
+title: Protocol Roles
 ---
 
-# Entities
+# Protocol Roles
 
 ## Community
 The community is an organization that brings together Professionals, generally from the same field of activity, generates benefits for members and provides recruitment, selection service for **Contractors** who wish to recruit community members.
