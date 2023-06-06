@@ -4,6 +4,10 @@ title: Benefits
 
 # Benefits
 
+The protocol brings several benefits for all involved parties. Communities gain a sustainable business model and a mechanism to attract professionals. Professionals get proof of resume, community benefits, and in case of DAOs, a stake in the community. Contractors get an efficient hiring and management tool.
+
+Overall, the Community Protocol offers a unique solution to the traditional hiring process, leveraging blockchain technology to enable transparent, efficient, and mutually beneficial relationships between professionals, communities, and businesses.
+
 ## For the Community
 
 The [**Community**](/the-protocol/roles/#community) gains a sustainable business model by offering the possibility of its members being hired by third parties. The business model consists of maintaining an active engaged community, offering the market the service of optimized recruitment and selection, using the money raised to offer benefits to Members and to the hired Professionals.

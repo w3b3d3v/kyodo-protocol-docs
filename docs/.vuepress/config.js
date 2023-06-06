@@ -26,13 +26,14 @@ export default defineUserConfig({
     sidebar: [
       // SidebarItem
       {
-        text: 'Kyodo Protocol',
+        text: 'Welcome',
         link: '/',
       },
       {
         text: 'Overview',
         children: [
           '/introduction',
+          '/market-fit',
           '/how-it-works',
           '/benefits'
         ],
