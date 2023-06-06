@@ -1,16 +1,16 @@
 ---
-title: 共同 Kyodo Protocol
+title: 共同 Kyōdō Protocol
 permalink: /
 ---
 
-# 共同 Kyodo Protocol
+# 共同 Kyōdō Protocol
 Sustainable Business Model for Service Communities and DAOs
 
 <!-- vide goes here -->
 
-## What is Kyodo Protocol
+## What is Kyōdō Protocol
 
-The **Kyodo Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
+The **Kyōdō Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
 
 The protocol offers a software infrastructure that solves companies' problem in hiring professionals, generates benefits and proof of experience for the hired professionals, and enables a sustainable business model for communities.
 

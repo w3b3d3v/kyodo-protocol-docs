@@ -1,4 +1,4 @@
-# Kyodo Protocol
+# Kyōdō Protocol
 
 Modelo de Negócios Sustentável para Comunidades e DAOs de Serviço
 
@@ -26,11 +26,11 @@ As comunidades em geral são criadas por profissionais entusiastas que dedicam s
 
 Mas nem sempre esses profissionais pensam em um modelo de negócios viável que possa sustentar financeiramente as atividades da comunidade e gerar incentivos o suficiente para que os membros se mantenham ativos. Criar e manter um modelo de negócios para comunidades é um desafio enorme.
 
-Dentro desse cenário de empresas contratantes, profissionais e comunidades, surge a solução **Kyodo Protocol**
+Dentro desse cenário de empresas contratantes, profissionais e comunidades, surge a solução **Kyōdō Protocol**
 
 ## O que é
 
-O **Kyodo Protocol** é um protocolo voltado para a relação entre comunidades, contratantes e profissionais.
+O **Kyōdō Protocol** é um protocolo voltado para a relação entre comunidades, contratantes e profissionais.
 
 O protocolo oferece uma infraestrutura de software que resolve o problema das empresas na contratação de profissionais, gera benefícios e prova de experiência para os profissionais contratados e viabiliza um modelo de negócios sustentável para as comunidades.
 

@@ -26,4 +26,4 @@ Communities are generally created by enthusiastic professionals who dedicate the
 
 However, these professionals do not always consider a viable business model that can financially support the community's activities and generate enough incentives to keep members active. Creating and maintaining a business model for communities is a massive challenge.
 
-Within this scenario of hiring companies, professionals, and communities, the solution **Kyodo Protocol** emerges.
+Within this scenario of hiring companies, professionals, and communities, the solution **Kyōdō Protocol** emerges.

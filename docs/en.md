@@ -1,4 +1,4 @@
-# Kyodo Protocol
+# Kyōdō Protocol
 
 Sustainable Business Model for Service Communities and DAOs
 
@@ -26,11 +26,11 @@ Communities are generally created by enthusiastic professionals who dedicate the
 
 However, these professionals do not always consider a viable business model that can financially support the community's activities and generate enough incentives to keep members active. Creating and maintaining a business model for communities is a massive challenge.
 
-Within this scenario of hiring companies, professionals, and communities, the solution **Kyodo Protocol** emerges.
+Within this scenario of hiring companies, professionals, and communities, the solution **Kyōdō Protocol** emerges.
 
 ## What it is
 
-The **Kyodo Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
+The **Kyōdō Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
 
 The protocol offers a software infrastructure that solves companies' problem in hiring professionals, generates benefits and proof of experience for the hired professionals, and enables a sustainable business model for communities.
 

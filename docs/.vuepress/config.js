@@ -10,14 +10,14 @@ import { tocPlugin } from '@vuepress/plugin-toc'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default defineUserConfig({
-  title: "共同 Kyodo Protocol",
-  permalinkPattern: ':slug',
+  title: "共同 Kyōdō Protocol",
+  permalinkPattern: ":slug",
   theme: defaultTheme({
     // default theme config
     navbar: [
       {
-        text: 'Home',
-        link: '/',
+        text: "Home",
+        link: "/",
       },
     ],
     editLink: false,
@@ -26,35 +26,23 @@ export default defineUserConfig({
     sidebar: [
       // SidebarItem
       {
-        text: 'Welcome',
-        link: '/',
+        text: "Welcome",
+        link: "/",
       },
       {
-        text: 'Overview',
-        children: [
-          '/introduction',
-          '/market-fit',
-          '/how-it-works',
-          '/benefits'
-        ],
+        text: "Overview",
+        children: ["/introduction", "/market-fit", "/how-it-works", "/benefits"],
       },
-      '/concepts',
+      "/concepts",
       {
-        text: 'The Protocol',
-        children: [
-          '/the-protocol/overview',
-          '/the-protocol/roles',
-          '/the-protocol/definitions'
-        ],
+        text: "The Protocol",
+        children: ["/the-protocol/overview", "/the-protocol/roles", "/the-protocol/definitions"],
       },
       {
-        text: 'About',
-        children: [
-          '/about/founders',
-          '/about/web3dev'
-        ],
+        text: "About",
+        children: ["/about/founders", "/about/web3dev"],
       },
-      '/faq'
+      "/faq",
 
       // {
       //   text: 'Benefits',
@@ -70,7 +58,7 @@ export default defineUserConfig({
   }),
   plugins: [
     googleAnalyticsPlugin({
-      id: 'G-XXXXXXXXXX'
+      id: "G-XXXXXXXXXX",
     }),
     backToTopPlugin(),
     externalLinkIconPlugin(),
