@@ -30,20 +30,51 @@ export default defineUserConfig({
         link: "/",
       },
       {
-        text: "Overview",
-        children: ["/introduction", "/market-fit", "/how-it-works", "/benefits"],
+        text: 'Overview',
+        children: [
+          '/introduction',
+          '/market-fit',
+          '/how-it-works',
+          '/benefits',
+          '/faq'
+        ],
       },
-      "/concepts",
+      '/blockchain-basics',
       {
-        text: "The Protocol",
-        children: ["/the-protocol/overview", "/the-protocol/roles", "/the-protocol/definitions"],
+        text: 'The Protocol',
+        children: [
+          '/the-protocol/overview',
+          '/the-protocol/concepts',
+          '/the-protocol/roles',
+          '/the-protocol/definitions'
+        ],
       },
       {
-        text: "About",
-        children: ["/about/founders", "/about/web3dev"],
+        text: 'Tokenomics',
+        children: [
+          '/tokenomics/token',
+          '/tokenomics/supply',
+          '/tokenomics/liquidity-mining',
+          '/tokenomics/treasury'
+        ],
       },
-      "/faq",
-
+      {
+        text: 'DAO',
+        children: [
+          '/dao/introduction',
+          '/dao/governance',
+          '/dao/constitution',
+          '/dao/foundation',
+          '/dao/service-provider'
+        ],
+      },
+      {
+        text: 'About',
+        children: [
+          '/about/founders',
+          '/about/web3dev'
+        ],
+      }
       // {
       //   text: 'Benefits',
       //   children: [

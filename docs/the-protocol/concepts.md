@@ -1,8 +1,10 @@
 ---
-title: Concepts
+title: Core Concepts
+permalink: /the-protocol/concepts
+
 ---
 
-# Concepts
+# Core Concepts
 
 ## Protocol
 Set of software that runs in a decentralized way through smart contracts on supported networks. The **Protocol** is only the part of the system that runs on-chain.
@@ -16,5 +18,8 @@ A unique record that is saved in the protocol and represents a company, whether 
 ## Wallet
 The public address of the wallet on the blockchain of one of the networks used by the Protocol. An Identity can have multiple Wallets associated with its registration.
 
-## Treasury
+## Community Treasury
 The community's wallet where the money related to the Community Fee goes.
+
+## Protocol Treasury
+The protocol's wallet where the money related to the Protocol Fee goes. (aka [DAO Treasury](/tokenomics/treasury))

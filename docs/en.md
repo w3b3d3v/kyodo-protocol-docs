@@ -1,6 +1,6 @@
 # Kyōdō Protocol
 
-Sustainable Business Model for Service Communities and DAOs
+Sustainable Business Model for Communities and DAOs
 
 ## Context
 
