@@ -39,7 +39,7 @@ The community can use the revenue from the community fee to offer various benefi
 #### 6. DAO Participation
 If the community is a DAO, members can also gain ownership and decision-making power, driving the direction of the community based on their contribution.
 
-## In a Nutshell
+### In a Nutshell
 
 The [**Community**](/the-protocol/roles/#community) implements the **Protocol**.
 
