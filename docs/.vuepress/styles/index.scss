@@ -1,11 +1,12 @@
 // Branding
 :root {
-  --c-brand: #af3e7c;
-  --c-brand-light: #bf4a8a;
+  --c-brand: #af3e3e;
+  --c-brand-light: #bf4a4a;
 }
 html.dark {
-  --c-brand: #a63a75;
-  --c-brand-light: #943469;
+  --c-text: #fff;
+  --c-brand: #a63a3a;
+  --c-brand-light: #943434;
 }
 
 // Back to Top Plugin
