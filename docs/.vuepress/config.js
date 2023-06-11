@@ -64,7 +64,7 @@ export default defineUserConfig({
           '/dao/introduction',
           '/dao/governance',
           '/dao/constitution',
-          '/dao/foundation',
+          '/dao/entity',
           '/dao/service-provider'
         ],
       },

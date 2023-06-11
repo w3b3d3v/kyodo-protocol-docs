@@ -14,17 +14,17 @@ Possible proposals include:
 * project investments
 * tokenomics changes
 
-### Vision
+## Vision
 
 Our vision is a world of self-sustainable communities that deliver value for it members.
 
-### Mission
+## Mission
 
 To support communities to maintain a healthy business model, professionals to work in their dream jobs and companies to hire the best people at reasonable time.
 
-### Principles
+## Principles
 
-* Kyōdō DAO is not a company. It does not have a management team or employees. It is a [foundation](/dao/foundation) whose members are the KYD token holders.
+* Kyōdō DAO is not a traditional company. It does not have a management team or employees. It is a [entity](/dao/entity) whose members are the KYD token holders.
 * Kyōdō DAO is [governed](/dao/governance) by its members. Any member can propose partnerships, investments, or product development. Members will vote on whether to approve or reject these proposals.
 * Kyōdō DAO will rely on a [service provider](/dao/service-provider) to facilitate various administrative functions.
 
