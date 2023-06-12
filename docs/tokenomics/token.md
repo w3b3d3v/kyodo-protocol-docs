@@ -8,7 +8,7 @@ permalink: /tokenomics/token
 KYD is the official token of Kyōdō Protocol.
 
 ::: warning
-The token has no defined financial value and is not an investment asset.
+The token is not a security token and should not be seen as such. It has no financial value and is not an investment asset. Please read the [legal disclaimers](/tokenomics/disclaimers).
 :::
 
 * **Name:** Kyōdō Token
@@ -16,7 +16,9 @@ The token has no defined financial value and is not an investment asset.
 * **Max Supply:** 100,000,000
 * **Network:** TBD (maybe Avalanche)
 
-⚠️ The token was not minted yet and is not listed on any exchange.
+## $KYD Token Address
+
+⚠️ The token has not yet been minted and is not listed on any exchange.
 
 ## Governance
 

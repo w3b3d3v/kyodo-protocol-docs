@@ -55,7 +55,8 @@ export default defineUserConfig({
           '/tokenomics/token',
           '/tokenomics/supply',
           '/tokenomics/liquidity-mining',
-          '/tokenomics/treasury'
+          '/tokenomics/treasury',
+          '/tokenomics/disclaimers'
         ],
       },
       {
