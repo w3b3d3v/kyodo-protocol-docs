@@ -6,7 +6,7 @@ title: Benefits
 
 The protocol brings several benefits for all involved parties. Communities gain a sustainable business model and a mechanism to attract professionals. Professionals get proof of resume, community benefits, and in case of DAOs, a stake in the community. Contractors get an efficient hiring and management tool.
 
-Overall, the Community Protocol offers a unique solution to the traditional hiring process, leveraging blockchain technology to enable transparent, efficient, and mutually beneficial relationships between professionals, communities, and businesses.
+Overall, the Kyōdō Protocol offers a unique solution to the traditional hiring process, leveraging blockchain technology to enable transparent, efficient, and mutually beneficial relationships between professionals, communities, and businesses.
 
 ## For the Community
 

@@ -20,15 +20,15 @@ Kyōdō is offers benefits for all players. You can read more at our [benefits p
 
 Kyōdō will launch on Avalanche and Polygon.
 
-## What does it cost to use?
+## How much does it cost?
 
 The protocol charges a flat 0,5% fee to the contractor. It is applied to all revenue generated from all contractor of all communities using the protocol. Te money goes to the Kyōdō Treasury.
 
 ## Is there a token?
 
-No. Kyōdō does not have a token at this time.
+Yes. You can learn more by reading the [Kyōdō Tokenomics](/tokenomics/token).
 
-## Wen launch?
+## When launch?
 
 Testnet is scheduled for Q3 2023. Mainnet is scheduled for Q1 2024. 
 
@@ -40,6 +40,6 @@ Yes. Kyōdō will be Audited by OpenZeppelin and CertiK.
 
 No. You have to be part of a Community that uses the protocol.
 
-## Can I use it on my community?
+## Can I use it for my community?
 
 Absolutely! You are warmly invited to begin utilizing the protocol within your community, regardless of the industry in which your members are engaged.
