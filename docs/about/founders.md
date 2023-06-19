@@ -26,7 +26,7 @@ Renowned for his contributions to the field, Daniel is a Google Developer Expert
 
 In 2006, Daniel joined Locaweb, the largest web hosting company in Brazil, where he served as a developer and tech lead in the infrastructure team for five years. An active member of the agile and software development communities, he often speaks at conferences such as Elixir Brasil, QCON, Agile Brasil, TDC, DevCamp, Agile Trends, and more.
 
-Daniel's interests extend beyond software development, delving into arts such as theatre, music, dance, and writing. He has participated in five musical plays and is a published poet. As a student of Vipassana meditation, Daniel is deeply interested in topics related to human consciousness.
+Daniel's interests extend beyond software development, delving into arts such as theatre, music, dance, and writing. He has participated in five musical plays and is a published poet. As a student of Vipassana meditation 🧘, Daniel is deeply interested in topics related to human consciousness.
 
 
 ## Yan Luiz
