@@ -6,13 +6,13 @@ permalink: /the-protocol/roles
 # Protocol Roles
 
 ## Community
-The community is an organization that brings together Professionals, generally from the same field of activity, generates benefits for members and provides recruitment, selection service for **Contractors** who wish to recruit community members.
+The community constitutes an organization that brings together Professionals, usually within the same area of expertise. It provides a myriad of benefits to its members and also offers recruitment and selection services for **Contractors** looking to recruit community members.
 
 ## Member
-An individual, of legal age, who is part of the community and is legally capable of performing service for others.
+A Member is an individual of legal age who has the legal capacity to provide services to others, and is an integral part of the community.
 
 ## Professional
-A company, usually one-person, that provides the service performed by the person who is a member of the [**Community**](/the-protocol/roles/#community). Every member who wants to use the protocol needs to have a company. **Professionals** need to have an Identity to use the protocol.
+A Professional is typically a sole proprietorship providing services performed by a [**Community**](/the-protocol/roles/#community) Member. For Members who wish to use the protocol, having such a company is essential. To use the protocol, **Professionals** must have an established Identity.
 
 ## Contractor
-A company that demands the services of the [**Professional**](/the-protocol/roles/#professional) and uses the Community to find the professionals and hire them. **Contractors** need to have an Identity to use the protocol.
+A Contractor represents a business that requires services from Professionals and uses the Community to find and hire those professionals. Like Professionals, Contractors also need to have an established Identity to use the protocol.

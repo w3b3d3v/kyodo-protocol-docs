@@ -7,30 +7,30 @@ permalink: /the-protocol/overview
 
 # Who should use Kyōdō?
 
-Kyōdō was designed to be used by any community that brings together professionals from the same field of expertise. While it needs to be implemented within a community, the greatest benefit is generated for professionals who choose to receive their compensation through the protocol. Professionals who recognize the value of using the protocol can suggest to the community administrators they favor to start using the protocol.
+Kyōdō is specifically designed to be used by communities that unite professionals within the same field of expertise. Although implementation occurs at the community level, the most substantial benefits are accrued by the professionals who choose to receive their compensation through the protocol. Professionals who realize the inherent value of using this protocol are encouraged to recommend its adoption to their community administrators.
 
-The adoption of the protocol by a professional community empowers its members and strengthens their position, much like cooperatives operate in the market.
+By adopting the Kyōdō protocol, a professional community can empower its members and bolster their market position, mirroring the effect typically observed in cooperative models.
 
-# How do Kyōdō differ from other options?
+# How does Kyōdō differ from other options?
 
-Some other protocols, such as [Proof-of-Talent](https://proofoftalent.org/), attempt to generate an experience index based on various factors such as activities, completed courses, project contributions, recommendations, etc. As the creators of Kyōdō, we believe that combining multiple forms of evaluating a person's expertise creates a weak index with little relevance, difficult comparability, and high susceptibility to fraud. Comparing different forms of evaluating knowledge in a single index is like comparing apples and oranges.
+Certain protocols, such as [Proof-of-Talent](https://proofoftalent.org/), aim to build an experience index based on a variety of factors, encompassing activities, completed courses, contributions to projects, recommendations, and more. However, at Kyōdō, we are of the conviction that the fusion of multiple methods for assessing expertise results in an index that is not only weak and of minimal relevance, but also subject to fraud and comparability issues. Merging disparate methods for evaluating knowledge into a single index is akin to comparing apples and oranges.
 
-We believe that using a single factor to assess a person's experience is the most effective way to create a ranking and determine who has the most experience within a list of candidates.
+We believe that using a single factor to measure an individual's experience is the most effective approach to ranking and determining who has the most experience within a pool of candidates.
 
-The Kyōdō Protocol is based on the financial amount a person has earned while working with a particular skill.
+The Kyōdō Protocol is fundamentally grounded on the financial amount an individual has earned while employing a specific skill.
 
-If someone can charge a high value for their hourly work and earns a substantial amount in just one month, they likely have much more experience than someone who can charge a lower value.
+If a person can demand a high hourly rate for his work and accumulate a significant amount in a single month, it stands to reason that they likely have more experience than an individual who can only demand a lower rate.
 
-If someone charges a lower value for their hourly work but has worked many hours with a specific skill, they undoubtedly have a considerable amount of experience.
+On the other hand, if an individual charges a lower rate for their hourly work but has put in many hours honing a specific skill, they also undoubtedly have an impressive degree of experience.
 
-The total amount of money received, related to the required skill, is the best way to measure a person's experience.
+In essence, the total amount of money earned, correlated with the required skill, provides the most accurate and effective measure of an individual's experience.
 
 # Limitations
 
-Considering that a person's experience is solely based on the relationship between the number of hours worked with a specific skill and the received compensation is too simplistic.
+To claim that a person's experience is based solely on the relationship between the hours worked in a specific skill and the compensation received is, in fact, overly simplistic.
 
-Certainly, there are individuals who have never been hired to work with a particular technology, for example, but are highly skilled and possess extensive knowledge. A prime example is software developers who contribute to open-source projects.
+There are undoubtedly individuals who, despite not being formally employed to work with a particular technology, for instance, are highly qualified and have extensive knowledge. A case in point is the contribution of software developers to open source projects.
 
-While there are many cases of individuals with significant expertise without being hired for on-demand work at a specific salary, the Kyōdō Protocol does not concern itself with addressing these cases. Generally, these individuals are not actively seeking employment (precisely because they lack that track record) and do not fit the profile of protocol users. They are typically researchers, entrepreneurs, and creators who are not seeking recognition for work done for others, and the likelihood of these individuals actually using the protocol is low.
+While there are numerous examples of individuals possessing significant expertise without having been hired for salaried, on-demand work, the Kyōdō Protocol does not specifically target such cases. As a general rule, these individuals are not actively job hunting (mainly because they lack a conventional track record) and do not fall into the typical protocol user demographic. They are usually researchers, entrepreneurs, and creators who do not seek recognition for work done for others, and the likelihood of such individuals making use of the protocol is relatively low.
 
-We do not aim to solve all the world's problems. Our focus is on providing an intelligent and effective option for a portion of professionals, typically those seeking projects and jobs with reputable employers.
+Our aim is not to address every conceivable problem in the world. Rather, our focus remains on providing an intelligent and effective solution for a specific segment of professionals - typically those looking for projects and job opportunities with reputable employers.

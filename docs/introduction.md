@@ -4,26 +4,26 @@ title: Introduction
 
 # Introduction
 
-Freelance professionals, solo entrepreneurs, and job applicants often struggle to find clients and quality job opportunities and often have trouble proving their knowledge and experience in the market.
+Freelancers, independent entrepreneurs and job seekers often face difficulties in locating quality job opportunities and validating their experience and work history in the job market.
 
-The traditional resume is already an obsolete tool.
+The conventional resume is no longer an effective tool.
 
-Gone are the days when companies stored static documents with the profile of each candidate.
+The era of companies keeping static profiles of each potential candidate is over.
 
-Companies, in turn, struggle to verify whether candidates truly possess the necessary skills and how relevant their previous work experiences were.
+Companies, for their part, often struggle to confirm that potential hires actually have the necessary skills and the relevance of their previous work experiences.
 
-Beyond the issue of the resume, we also notice a challenge in matchmaking between companies and professionals. Often, the ideal person does not appear on a company's radar, and companies end up taking a long time to find the professional they need in the timeframe they require.
+In addition to the resume issue, there is also the challenge in the matchmaking between companies and professionals. Often, the ideal person does not appear on a company's radar, and companies end up taking a long time to find the necessary professionals within the desired timeframe.
 
-In sectors such as software development, where the demand for professionals is much higher than the supply of talent, the problem worsens.
+In sectors such as software development, where the demand for professionals significantly exceeds the supply, this problem is intensified.
 
-A solution to this problem is communities.
+Communities present a potential solution to this issue.
 
-A community is a group of people who share similar interests, values, goals, or geographic locations. They interact and collaborate with each other, creating social bonds and establishing a collective identity. The community provides a sense of belonging, mutual support, and an environment where individuals can engage and actively participate.
+A community is a collective of individuals with shared interests, objectives, values, or geographical areas. They interact and cooperate, establishing social bonds and forming a communal identity. Communities provide a sense of belonging, mutual assistance, and a platform where members can engage and actively participate.
 
-Communities represent oases of professionals for companies wishing to find talent. They bring together many professionals from the same field, making it easier to search for the right professional. For professionals, communities offer knowledge, education, a space for exchange, and personal and professional growth. They are also a channel for finding work.
+For companies looking for talented professionals, communities can be a goldmine. They bring together a multitude of professionals from the same field, streamlining the search for the right candidate. For professionals, communities offer knowledge, education, a platform for discussion and exchange of ideas, and opportunities for personal and professional development. They can also serve as a source of employment.
 
-Communities are generally created by enthusiastic professionals who dedicate their time to their passion and are looking for financial return, social recognition, and reputation.
+Communities are usually founded by passionate professionals who devote their time to their interests, seeking financial rewards, social acknowledgment and reputation.
 
-However, these professionals do not always consider a viable business model that can financially support the community's activities and generate enough incentives to keep members active. Creating and maintaining a business model for communities is a massive challenge.
+However, these professionals do not always consider a viable business model that can financially support community activities and generate sufficient incentives to keep members active. Creating and maintaining a business model for communities is a huge challenge.
 
-Within this scenario of hiring companies, professionals, and communities, the solution **Kyōdō Protocol** emerges.
+Within this scenario of contracting companies, professionals and communities, the **Kyōdō Protocol** solution emerges.

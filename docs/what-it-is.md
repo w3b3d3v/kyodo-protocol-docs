@@ -4,10 +4,10 @@ title: What It Is
 
 # What It Is
 
-The **Kyōdō Protocol** is a protocol focused on the relationship between communities, employers, and professionals.
+The **Kyōdō Protocol** is an innovative system that strengthens the connections between communities, businesses, and professionals. 
 
-The protocol offers a software infrastructure that solves companies' problem in hiring professionals, generates benefits and proof of experience for the hired professionals, and enables a sustainable business model for communities.
+It provides a software infrastructure that addresses the challenges companies face in hiring professionals, delivers tangible benefits and proof of work experience to these professionals, and establishes a viable business model for the communities involved.
 
-Everything is done through the processing of payments made by the company for the work performed by the professionals hired in the community.
+This is done by processing payments that companies make for services provided by community professionals.
 
-The protocol functions as a payment gateway that distributes the money received, issues and distributes tokens that represent community benefits to the professional, and records the skills of the professionals involved in providing service as proof of their resume.
+In essence, the protocol acts as a payment gateway that effectively distributes received funds, issues and allocates tokens that symbolize community benefits to the professional, and documents the specific skills employed by professionals in providing services as a verifiable career history.

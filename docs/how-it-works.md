@@ -4,44 +4,44 @@ title: How It Works
 
 # How It Works
 
-[**Community**](/the-protocol/roles/#community) leaders decide to implement the Protocol so that all members can benefit and the [**Community**](/the-protocol/roles/#community) has a source of revenue. Initially, the leaders determine the [**Community Fee**](/the-protocol/definitions/#community-fee) , a percentage that will be charged on the amount of all services provided by participating members. This decision can be delegated to the members later on. Additionally, the **Community Token** will be minted, a unique token that will be distributed to participating members. This token can be used in gamification mechanisms or community governance, at the discretion of each one.
+[**Community**](/the-protocol/roles/#community) leaders choose to implement the Protocol, providing benefits to all members and a source of income for the [**Community**](/the-protocol/roles/#community). These leaders initially set the [**Community Fee**](/the-protocol/definitions/#community-fee), a percentage charge on all services rendered by participating members. This decision can later be transferred to the community members themselves. Additionally, the **Community Token** is minted, which is a unique token distributed to participating members and which can be used for gamification mechanisms or community governance, depending on individual preferences.
 
-From this moment on, community members can use the tool and the protocol to receive compensation for all services rendered to their clients. The use of the protocol is not mandatory. The protocol provides a contract management and billing tool for the member to use.
+From this point forward, community members have the option of using the tool and protocol to receive compensation for all services rendered to their clients. The use of the protocol is optional. The protocol provides a contract management and billing tool for member convenience.
 
-To participate in the protocol, the member will need to go through a KYC (Know Your Customer) and AML (Anti Money Laundering) process and create a verified account. In this account, the member will register their crypto wallets from the networks supported by the Protocol.
+To participate in the protocol, members need to pass Know Your Customer (KYC) and Anti Money Laundering (AML) checks and establish a verified account. In this account, the member will register their crypto wallets from networks compatible with the Protocol.
 
-The member then registers a [**Contract**](/the-protocol/definitions/#contract) in the protocol that represents the service provision they negotiated with a client. This [**Contract**](/the-protocol/definitions/#contract) will reference the [**Contractor**](/the-protocol/roles/#contractor) , the description of the services, the agreed amount, the type of payment (single, installment, or recurring) and the Skills involved in this service provision, with a weight for each [**Skill**](/the-protocol/definitions/#skill). For example, if it is a contract to be a backend software developer in the Javascript language, they will be able to choose the Javascript skill with a weight of 100%, or they can choose two or more skills (e.g.: Javascript and Node.js), giving a weight of 50% for each one. All this information will be useful for the hiring process and future work and will be explained further below.
+The member will then initiate a [**Contract**](/the-protocol/definitions/#contract) within the protocol, representing the provision of service agreed with a client. This [**Contract**](/the-protocol/definitions/#contract) will reference the [**Contractor**](/the-protocol/roles/#contractor), the description of the service, the agreed remuneration, the payment method (single, installment, or recurring), and the Skills used in the provision of this service, with a weight being assigned to each [**Skill**](/the-protocol/definitions/#skill). For example, if the contract involves a Javascript back-end software developer, they can assign a weight of 100% to the Javascript skill, or they can select multiple skills (e.g., Javascript and Node.js), assigning a weight of 50% to each. This information will be essential in the hiring process and in subsequent work, and will be detailed below.
 
-After having an active contract, approved by the company to execute the service, when billing their services to the hiring company, the member issues an invoice against their client from the **Billing Tool**.
+After establishing an active contract, approved by the contracting company, the member issues an invoice against the client using the **Billing Tool** at the time of billing for the services.
 
-The invoice includes the charge for the services performed and the community fee. Suppose the [**Community Fee**](/the-protocol/definitions/#community-fee) is 5%, then a salary of $10,000 will generate an invoice for $10,500 for the company to pay. That's $10,000 for the Professional and $500 for the Community.
+This invoice includes the service fee and the community fee. Let's say the [**Community Fee**](/the-protocol/definitions/#community-fee) is 5%, a salary of $10,000 will yield a $10,500 invoice for the company to pay. That's $10,000 for the Professional and $500 for the Community.
 
-In the description of the services, the **Skills** defined by the member will be highlighted so that the company can validate and confirm that the skills are really present in the service delivery.
+The **Skills** determined by the member will be highlighted in the service description, allowing the company to validate and confirm that the skills were actually present in the provision of the services.
 
-The payment data will inform the payment address in cryptocurrencies on the network chosen by the member at the time of invoice issuance. The network to be used is an agreement between the professional and the hiring company. The payment must necessarily be made in cryptocurrencies because of the benefits generated for the [**Professional**](/the-protocol/roles/#professional) and the [**Community**](/the-protocol/roles/#community) , which will be explained below.
+The payment information will inform the cryptocurrency payment address on the network chosen by the member when issuing the invoice. The network to be used is a mutual agreement between the professional and the contracting company. Payments must be made in cryptocurrencies due to the advantages it generates for the [**Professional**](/the-protocol/roles/#professional) and the [**Community**](/the-protocol/roles/#community), which will be detailed below.
 
-Upon receiving the invoice, the company makes the Payment to the informed address, an address generated by the **Protocol** that will process the [**Payment**](/the-protocol/definitions/#payment).
+Upon receiving the invoice, the company makes the Payment to the provided address, an address generated by the **Protocol** to process the [**Payment**](/the-protocol/definitions/#payment).
 
-Upon receiving a [**Payment**](/the-protocol/definitions/#payment) , the **Protocol** will automatically know who the money comes from, under which Contract this payment is relative, who is the hired Professional, and under which Community this contract is being governed.
+Once a [**Payment**](/the-protocol/definitions/#payment) is received, the **Protocol** automatically identifies who the payment is from, which Contract it relates to, who the hired Professional is, and which Community governs this contract.
 
-Immediately upon receiving the money, the protocol will then split the payment:
+Immediately upon receiving the funds, the protocol proceeds to distribute the payment:
 
-1. Transfer the value of the community percentage to the treasury, which in general will be a multi-sign wallet
-2. Pay for the use of the protocol by transferring 0.5% to the protocol treasury
-3. Transfer the remainder to the member who performed the service
-4. Compute the amount of money received distributed by the Skills according to their weight in the Contract. For example, if the contract has two skills with a weight of 50% each, and the payment was $10K, each skill will have a nominal index of 5k.
-5. Distribute 50% of the received nominal value in Community Tokens. For example, if the payment is $10,000, 5,000 community tokens will be sent to the member.
+1. The community percentage is transferred to the treasury, typically a multisig wallet.
+2. The protocol usage fee, 0.5%, is transferred to the protocol's treasury.
+3. The remaining balance is transferred to the member who provided the services.
+4. The received payment amount is distributed among the Skills according to their weight in the Contract. For example, if the contract defines two skills, each carrying a weight of 50%, and the payout is $10,000, each skill will have a nominal index of $5,000.
+5. 50% of the face value received is distributed in Community Tokens to the member. For example, if the payout is $10,000, 5,000 community tokens will be sent to the member.
 
-The Skills Index record will be used by the member as a resume proof. At any time, the professional can prove that they worked effectively with certain technologies, tools, or processes because this proof is related to how much money they actually received for performing a service. The higher the index, the longer the professional has worked with that skill or the more senior they are, considering that seniority is directly related to the price that the professional can charge in the market. Ultimately, the more money received, the more experience the person has.
+The Skills Index record will serve as a Proof of Resume for the member. At any time, the professional can demonstrate their proficiency with specific technologies, tools, or processes as this proof is linked to the actual monetary remuneration they received for providing a service. A higher index suggests a longer professional experience in that particular particular skill or reflects their seniority, as seniority is intrinsically linked to the value that the professional can charge in the market. In essence, the larger the sum received, the more experienced the individual is.
 
-The member can mint an NFT that will be updated with the weight of that Skill and the community can create a ranking of professionals by skills, which will make it easier for companies to find talents as they need them. This NFT is Soulbound, i.e., it cannot be transferred between Wallets. The community will have a revenue stored in its treasury because of the [**Community Fee**](/the-protocol/definitions/#community-fee) and can use the resources to offer benefits to its members, such as:
+Members have the ability to mint a non-fungible token (NFT) that reflects the weighted value of their Skills. This allows the community to form a ranked list of professionals based on their skills, making it easier for companies to locate the talent they require. This NFT is Soulbound, meaning it is non-transferable between wallets. The [**Community Fee**](/the-protocol/definitions/#community-fee) generates revenue that goes into the community's treasury. This revenue can be used to provide various benefits to members, such as:
 
-- Benefit club with discounts at establishments of interest to the community
-- Active search for hiring companies to be customers hiring the members,
-- Training, courses and free education for the entire community or for members participating in the protocol.
+- A benefit club, with discounts at establishments that interest the community;
+- Active recruitment of companies to hire members;
+- Provision of training, courses, and free education for the entire community or for members who participate in the protocol.
 
-The community token can be used as an access gateway for certain areas or services provided to the community and/or be used as a governance token if the community is interested in becoming a DAO (Decentralized Autonomous Organization).
+The community token can serve as an access pass to certain community services or areas. It can also function as a governance token, should the community decide to transition into a Decentralized Autonomous Organization (DAO).
 
-In the case of a DAO, the member will be very interested in using the Protocol, because in addition to the benefits of the Community, the resume proof, they may also have ownership of the business with a vote on decisions related to the money received from the Community Fee generated with the work of other members. The more they work using the Protocol, the larger part of the business they will own and the "more owner" they will be of the DAO.
+In a DAO scenario, members would be highly motivated to use the Protocol. In addition to gaining community benefits and having a verifiable resume, they could also gain an ownership stake in the business with voting rights in decisions related to the Community Fee income generated by the work of other members. The more a member uses the Protocol, the greater their stake in the business, effectively making them a 'larger owner' of the DAO.
 
-The DAO token may have liquidity in the secondary market and will appreciate as more Professionals join the community and choose to have their remunerations received through the Protocol, as this will represent more fees and greater value in the **Community Treasury**.
+The DAO token could potentially gain liquidity in the secondary market and appreciate in value as more professionals join the community and choose to receive their compensation through the Protocol. This would represent an increase in fees and subsequently increase the value stored in the Community Treasury.

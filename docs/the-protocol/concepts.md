@@ -1,25 +1,20 @@
 ---
-title: Core Concepts
-permalink: /the-protocol/concepts
-
+title: Concepts
 ---
 
-# Core Concepts
+# Concepts
 
 ## Protocol
-Set of software that runs in a decentralized way through smart contracts on supported networks. The **Protocol** is only the part of the system that runs on-chain.
+This refers to a set of software running in a decentralized manner, operating through smart contracts on supported networks. The **Protocol** is the only part of the system that runs on-chain.
 
 ## Tools
-Set of software that runs centrally on servers hosted by the company that provides the **Protocol** service. These systems can be replaced by any other developed by third parties or by the community itself.
+This refers to a set of software that operates centrally, hosted on servers managed by the company providing the **Protocol** service. These systems can be replaced by alternatives developed either by third parties or by the community itself.
 
-## Identity
-A unique record that is saved in the protocol and represents a company, whether it's a [**Professional**](/the-protocol/roles/#professional) or a [**Contractor**](/the-protocol/roles/#contractor) , after undergoing a process of KYC (Know Your Client) and AML (Anti Money Laundering). Each [**Professional**](/the-protocol/roles/#professional) and [**Contractor**](/the-protocol/roles/#contractor) can have only one Identity in the system. The Identity is associated with some document of legal value in the country where the company's document is registered. Natural persons cannot create Identities in the protocol.
+## Identity 
+This is a unique entry record saved within the protocol, representing a business entity, whether a [**Professional**](/the-protocol/roles/#professional) or a [**Contractor**](/the-protocol/roles/#contractor). This is after a process of KYC (Know Your Client) and AML (Anti Money Laundering) checks. Each [**Professional**](/the-protocol/roles/#professional) and [**Contractor**](/the-protocol/roles/#contractor) can only have a single Identity within the system. The Identity is linked to a legally recognized document in the country where the company document is registered. Individuals cannot establish Identities within the protocol.
 
 ## Wallet
-The public address of the wallet on the blockchain of one of the networks used by the Protocol. An Identity can have multiple Wallets associated with its registration.
+This is the public address of a wallet on the blockchain of one of the networks used by the Protocol. A single Identity can have multiple Wallets linked to its record.
 
-## Community Treasury
-The community's wallet where the money related to the Community Fee goes.
-
-## Protocol Treasury
-The protocol's wallet where the money related to the Protocol Fee goes. (aka [DAO Treasury](/tokenomics/treasury))
+## Treasury
+This is the community wallet where funds related to the Community Fee are directed.

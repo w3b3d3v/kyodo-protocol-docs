@@ -3,8 +3,7 @@ title: Founders
 permalink: /about/founders
 ---
 
-# About Founders
-
+# About the Founders
 
 ## Daniel Cukier
 
@@ -17,12 +16,17 @@ permalink: /about/founders
 | Discord | danicuki#5520                   |
 
 
-Daniel is a technology innovator, currently helping companies to build web3 developers teams with web3DEV. Former CTO in Brazilian startups such as Pravaler - a fintech that offers accessible student loans - also founder and CTO at Playax - an audience development platform for music professionals based on BigData - he also worked for two years as CTO at Elo7 – the biggest crafts marketplace in Brazil, acquired by ETSY in 2021
-Experienced working in different programming languages such as Elixir, Ruby, JavaScript and Java, Daniel helped many startups as venture advisor at Monashees Capital and other accelerator programs in Brazil. He is also PhD in Computer Science at University of São Paulo – IME-USP. His PhD research is about Software Startups Ecosystems and Entrepreneurship.
+Daniel is an accomplished technology innovator, currently working to assist companies in building teams of proficient web3 developers via WEB3DEV. His previous roles include CTO positions at several Brazilian startups such as Pravaler, a fintech aimed at providing affordable student loans, and Elo7, Brazil's most significant artisan marketplace, which was acquired by ETSY in 2021. He was also the founder and CTO of Playax, a big-data driven audience development platform designed for music professionals.
 
-Daniel mastered Computer Science at the University of São Paulo in 2009, with the Thesis Patterns for Introducing New Ideas in the Software Industry. Daniel is a Cloud Computing GDE (Google Developer Expert). Daniel started developing software in Brazil when he was 10, on his TK-3000 Basic 2MB RAM computer. He worked as a consultant and software developer in many companies. In 2001, he worked for an Internet startup in Italy.
-In 2006 he joined Locaweb, the biggest web hosting company in Brazil and worked there for 5 years as developer and tech lead in the infrastructure team. Daniel is an active member in the agile and software development communities, speaker in many conferences such as Elixir Brasil, QCON, Agile Brasil, TDC, DevCamp, Agile Trends and others.
-Studying other Arts besides software development, like Theatre, musical instruments and compositions, dance and writing, he acted in five musical plays and has a poetry book published. Daniel is a Vipassana meditation student and is very interested in topics related to human consciousness.
+Daniel's tech skill set is vast, spanning a range of programming languages such as Elixir, Ruby, JavaScript, and Java. His broad expertise has been instrumental in aiding various startups through his role as a venture advisor at Monashees Capital and participation in multiple accelerator programs in Brazil. 
+
+Holding a PhD in Computer Science from the University of São Paulo – IME-USP, Daniel's research primarily focused on Software Startups Ecosystems and Entrepreneurship. He previously earned his Master's degree in Computer Science from the same institution in 2009, presenting a thesis entitled 'Patterns for Introducing New Ideas in the Software Industry.'
+
+Renowned for his contributions to the field, Daniel is a Google Developer Expert (GDE) in Cloud Computing. His fascination with software development began at the age of 10, when he started experimenting with his TK-3000 Basic 2MB RAM computer. This interest propelled him into a career as a consultant and software developer, working with several companies, including an internet startup in Italy in 2001.
+
+In 2006, Daniel joined Locaweb, the largest web hosting company in Brazil, where he served as a developer and tech lead in the infrastructure team for five years. An active member of the agile and software development communities, he often speaks at conferences such as Elixir Brasil, QCON, Agile Brasil, TDC, DevCamp, Agile Trends, and more.
+
+Daniel's interests extend beyond software development, delving into arts such as theatre, music, dance, and writing. He has participated in five musical plays and is a published poet. As a student of Vipassana meditation, Daniel is deeply interested in topics related to human consciousness.
 
 
 ## Yan Luiz
@@ -35,10 +39,9 @@ Studying other Arts besides software development, like Theatre, musical instrume
 | Email   | yan@w3d.community                   |
 | Discord | yanluiz.eth#8146                    |
 
-Yan has been involved with computers since he was a kid, programming for more than five years. His first contact with bitcoin and blockchain was in 2013. Yan is a smart contract developer, specialist in vulnerabilities, EVM bugs and threats on smart contracts.
+Yan has fostered a deep connection with computers since childhood, evolving into a dedicated programmer with over five years of experience. His curiosity led him to explore the world of Bitcoin and blockchain in 2013, thus commencing his journey in the dynamic field of cryptocurrency. Yan now excels as a smart contract developer, where his proficiency lies in identifying and addressing vulnerabilities, detecting EVM bugs, and mitigating potential threats related to smart contracts.
 
-He created the first FREE solidity course in pt-BR, using the last stable version of that language and covering the basic to advanced aspects of smart contract development.
-He is also an enthusiast of quantum computing and developed for processors with 16 qubits. In his free time, he enjoys spiritual conversations.
+Committed to advancing knowledge in his field, Yan launched the first comprehensive, free-of-charge Solidity course in Portuguese (pt-BR). Using the latest stable version of the language, the course provides an in-depth exploration of smart contract development, from the fundamentals to more advanced concepts. Simultaneously, Yan harbors an enthusiasm for quantum computing, having already developed for processors with 16 qubits. In his personal time, he savors engaging in spiritual conversations, balancing his technical pursuits with a deep-rooted interest in broader existential topics.
 
 
 ## Melk
@@ -52,8 +55,8 @@ He is also an enthusiast of quantum computing and developed for processors with 
 | Email   | melk@w3d.community              |
 | Discord | MΞLK#8101                       |
 
-Melk is a 41-year-old technology entrepreneur who has founded several companies in Brazil. He has been a software developer for over 25 years and has worked on over 500 projects for large companies in Brazil.
+At 41, Melk is a seasoned technology entrepreneur who has established several notable companies in Brazil. With over a quarter of a century of experience as a software developer, he has worked on an impressive roster of over 500 projects for some of Brazil's most prominent companies.
 
-He has worked in Perl, PHP, Cold Fusion, Actionscript, . NET ruby, Javascript, Python and recently Solidity (thankfully not Java :D). He was actively involved in the creation of the software community in Rio de Janeiro and the agile development community in Brazil.
+Melk's technical expertise is extensive, spanning various programming languages such as Perl, PHP, Cold Fusion, Actionscript, .NET, Ruby, Javascript, Python, and most recently, Solidity (thankfully not Java :D). Melk has played a pivotal role in the establishment and growth of the software community in Rio de Janeiro and the broader agile development community within Brazil.
 
-He started working in the crypto market in 2013. In 2017, he got into Ethereum for the first time. In 2021, he decided to create web3dev, the largest web3 community in Brazil. Melk is also a street runner, a yogi, has been meditating daily for several years and started taking surfing classes.
+Diving into the crypto market in 2013, Melk made his initial foray into Ethereum four years later, in 2017. By 2021, he decided to launch WEB3DEV, a venture that has become the largest web3 community in Brazil. Outside his professional life, Melk has led a balanced lifestyle as a street runner, a yogi, and a dedicated meditation practitioner for several years. Recently, he has begun taking surfing lessons, adding yet another facet to his diverse array of interests.
