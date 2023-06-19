@@ -1,5 +1,6 @@
 ---
 title: Concepts
+permalink: /the-protocol/concepts
 ---
 
 # Concepts
