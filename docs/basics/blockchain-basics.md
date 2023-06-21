@@ -5,113 +5,115 @@ title: Blockchain Basics
 # Blockchain Basics
 
 ::: tip
-If you're new to Blockchain, this is a great place to start. In this section, we'll walk you through the most general concepts regarding Blockchain technology.
+If you're new to Blockchain, this is a great place to start. In this section, we will guide you through the most general concepts about Blockchain technology, providing you with a solid foundation to build on.
 :::
 
 ### 1. What is Blockchain?
 
-Blockchain is a technology that features a continuous list of blocks of information on a live network of computers. Each block contains a number of transactions that when filled, are closed and linked to the previously filled block, with other computers checking them using special algorithms.&#x20;
+Blockchain is a revolutionary technology consisting of a continuous chain of data blocks, each housed in a network of active computers. Each block contains a set of transactions which, upon completion, are sealed and linked to the previous block. This process is validated by other computers on the network using specialized algorithms.&#x20;
 
-The most important aspect about Blockchain is that they are decentralized, which means that no computer or agent can modify the log of events stored in the chain. That is, it doesn't rely on a single authority, but on a diverse group of smaller players.
+Blockchain's main attribute is its decentralization, which means that no single entity or computer can alter the record of events stored on the chain. It is a system that depends not on a central authority but on a diverse assembly of smaller players.
 
-All of that ensures Blockchain's security and makes it the most suitable technology for financial applications
+This decentralized nature reinforces Blockchain security, making it an ideal choice for financial applications and other industries that require high-security data management.
 
 ### 2. What are cryptocurrencies?
 
-Cryptocurrencies are digital assets that operate on decentralized blockchain networks. Like other currencies, they can be used as means to buy services and goods on the internet, but with the advantage of security, privacy, speed and low cost.&#x20;
+Cryptocurrencies are digital assets that operate on decentralized blockchain networks. Like other currencies, they serve as a means of purchasing services and goods online, offering advantages such as enhanced security, privacy, speed, and cost-effectiveness.&#x20;
 
-There are thousands of different cryptocurrencies on the market, and people can invest on them as any other asset. However, doing that can be risky, so it is recommended to do some fair amount of research to fully understand how each system works.
+The market is filled with thousands of unique cryptocurrencies, each presenting potential investment opportunities. However, as with any investment, entering the cryptocurrency market involves risks, and thorough research is recommended to understand the nuances of each system.
 
 ### 3. What is a Decentralized Market?
 
-Saying something is a Decentralized Market means that the technology allows the people in it to trade directly with each other instead of relying on a centralized authority like a bank, or any other type of middlemen. People only need to be connected to a _node_ that will transfer the data needed, and don't have to know or trust the people they are trading with.
+The term "Decentralized Market" means a market structure that allows participants to engage in direct trade with each other, bypassing the need for a centralized authority such as a bank or other intermediaries. Participants simply connect to a _node_, which facilitates data transfer, eliminating the need to know or trust trading partners.
 
-A Decentralized Market is a good example of peer-to-peer network.
+A Decentralized Market exemplifies the concept of a peer-to-peer network in action.
 
 ### 4. What is a Centralized Market?
 
-In Centralized Markets, all orders are led by a central exchange point without an authority or competitive validator. This means that every buy order goes to the exchange, where they are matched with a sell order.
+Unlike a Decentralized Market, a Centralized Market operates with all orders directed through a central exchange point, devoid of an authoritative or competitive validator. This implies that every buy order goes through this central exchange, where it is paired with a sell order.
 
-Centralized marketplaces often have higher fees, lack transparency, while also having greater security risks because the network relies on a single point which increases the chances of failure or hacking.
+Centralized Markets often come with their drawbacks, including higher fees, a lack of transparency, and a heightened security risk. This stems from the network's reliance on a single point of exchange, which increases the likelihood of system failure or susceptibility to hacking.
 
 ### 5. What is Ethereum?
 
-Ethereum is a network of cryptocurrencies launched in 2015, that has been adopted by numerous projects from all over the world.
+Ethereum, launched in 2015, is a blockchain-based platform that supports a wide array of projects globally. 
 
-The most distinctive features of the Ethereum network is its “Proof of Stake” (PoS) consensus algorithm and its ability to host “smart contracts”. It is also the largest network that hosts dapps, and it is where most developer activity happens in the crypto space.
+Its distinguishing features are the "Proof of Stake" (PoS) consensus algorithm and the ability to host "smart contracts". It is also the largest network hosting decentralized applications (dApps), leading the charge in developer activity within the crypto sphere.
 
 ### 6. What are Smart Contracts?
 
-Smart Contracts are basically self-executable programs that run once predetermined conditions are met, used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss.
+Essentially, smart contracts are self-executing programs that trigger when pre-determined conditions are met. These are employed to automate the execution of agreements, thereby ensuring immediate certainty of outcomes for all participants without needing intermediary involvement or loss of time. 
 
-For that, they are not directly controlled by a user and are published to run independently of the network and those who program it, making them more reliable. They are also open to scrutiny by anyone who wants to access the public network, which aligns with the transparent nature of Blockchain.
+Therefore, smart contracts are not directly governed by users. They operate independently, separate from the network and the developers who designed them, which increases their reliability. Furthermore, its operations are accessible for review by anyone on the public network, promoting transparency consistent with the blockchain philosophy.
 
-In addition, individuals can interact with the smart contract by submitting transactions that will trigger some events in the contract.&#x20;
+Additionally, individuals can interact with these smart contracts by submitting transactions, which can set off certain events in the contract.&#x20;
 
 ### 7. What is Gas?
 
-Gas is the fee required to do the amount of computational work to validate a transaction in the network. This work is done by the nodes that dedicate their computational power to maintain the network, and in return, are paid a feed for all transactions.&#x20;
+Gas is essentially the fee charged for the computational effort required to authenticate a transaction on the network. This verification work is carried out by the network nodes, which contribute their computational resources to maintain the network's functionality. As compensation for this service, they receive a fee from each transaction they process.&#x20;
 
-This fee is calculated in terms of ETH.&#x20;
+The fee is usually calculated in terms of ETH (Ethereum's native cryptocurrency).&#x20;
 
 ### 8. What is a dApp?
 
-Dapps are short for Decentralized Applications and it refers to software applications built from Smart Contracts on decentralized networks such as Ethereum, but with an interface that allows users to interact with it.&#x20;
+Dapps, short for Decentralized Applications, are software applications built on decentralized networks like Ethereum using smart contracts, which come with an interface for user interaction.&#x20;
 
-They are different from regular apps because they don't have a private connection to centralized servers, which offers more transparency over how its backend works.
+What sets them apart from traditional apps is the lack of a private, centralized server connection. Instead, they operate on a public, decentralized network, providing greater transparency about their back-end operations and processes.
 
 ### 9. How can I buy and sell Crypto?
 
-You can buy and sell crypto in two ways: using Decentralized Exchanges (DEXs) or using Centralized Exchanges (CEXs).&#x20;
+To buy and sell cryptocurrency, you can use either Decentralized Exchanges (DEXs) or Centralized Exchanges (CEXs).&#x20;
 
-DEXs are [decentralized markets](#3.-what-is-a-decentralized-market), and for that, they are not under the control of any company. However, they are more difficult to use because they require users to know how to safely store and protect their digital assets. Examples of DEXs are KLAYSwap, Uniswap, PancakeSwap and Sushiswap.
+DEXs are [decentralized markets](#3.-what-is-a-decentralized-market) that are not governed by a single entity. The caveat is that they can be more challenging to navigate because they require users to understand how to securely store and protect their digital assets. Some examples of DEXs include KLAYSwap, Uniswap, PancakeSwap, and Sushiswap.
 
-CEXs are [centralized markets](#4.-what-is-a-centralized-market), and usually are more user-friendly, since it comes with typical account features like recovering lost passwords. Examples of CEXs are Binance and Coinbase.
+On the other hand, CEXs are [centralized marketplaces](#4.-what-is-a-centralized-market) that are generally more user-friendly, offering standard account features like password recovery. Some well-known CEXs are Binance and Coinbase.
 
-Currently, you can only buy DEV tokens using decentralized markets. We recommend Uniswap, but make sure you are buying the [correct token](https://etherscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137).
+At the moment, DEV tokens can only be purchased through decentralized markets. We recommend using Uniswap; however, it is crucial to ensure you're purchasing the [correct token](https://etherscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137).
 
 ### 10. What is a Wallet?
 
-A Wallet is a software that holds cryptocurrencies by storing your Private Keys which are used in cooperation with the appropriate Public Keys.
+A Wallet is a software application that holds cryptocurrencies by securely storing your Private Keys, which work in conjunction with the corresponding Public Keys.
 
-Private Keys are a large number, randomly-generated number with hundreds of digits, and although anyone can deposit crypto into an address, they can only be withdrawn from that address with the corresponding keys.
+Private Keys are complex, randomly generated numbers consisting of hundreds of digits. While anyone can deposit crypto into an address associated with a Public Key, only the corresponding Private Key can authorize withdrawal from that address.
 
 Wallets allows us to access our cryptocurrencies with passwords or Key Phrases, without having to memorize the Private Keys. However, it is safer to have the Private Keys written down in a secure location, just in case.
 
-You can use a Cold Wallet, that is, a Wallet that is not connected to the internet, or Hot Wallet, which is connected. Wallets can also be divided into desktop, hardware, web and paper wallets.
+Wallets allow us to access our cryptocurrencies using passwords or passphrases, eliminating the need to memorize complex Private Keys. However, for added security, it's advisable to have a written record of your Private Keys stored in a secure location.
+
+Wallets can be "Cold" or "Hot". A Cold Wallet is one that is not connected to the internet, providing a higher level of security against digital threats. On the other hand, a Hot Wallet is connected to the Internet, offering convenience but a slightly lower level of security due to its online presence. Wallets can be further categorized into various forms such as desktop, hardware, web and paper wallets, each offering different advantages and disadvantages.
 
 ### 11. What is DeFi?
 
-DeFi is short for Decentralized Finance and it refers to the open financial products and services that provide an alternative to those offered by centralized institutions such as commercial banks, credit unions and insurance funds.
+DeFi, short for Decentralized Finance, refers to a range of financial products and services that serve as alternatives to to those usually offered by centralized institutions such as commercial banks, credit unions and insurance companies.
 
-DeFi offers faster, cheaper, and more flexible ways of borrowing, lending and trading assets, without the restrictions imposed by centralized institutions.
+DeFi goes beyond the conventional model by offering faster, less expensive and more adaptable methods of borrowing, lending and trading assets, without the restrictions imposed by centralized entities.
 
-The services offered in DeFi are typically accessed using [dApps](#8.-what-is-a-dapp), that are built decentralized protocols.
+Typically, DeFi services are accessed through [dApps](#8.-what-is-a-dapp), which are applications built on decentralized protocols.
 
 ### 12. What is Staking?
 
-Staking refers to the process of blocking your funds in a secure [Smart Contract](#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.&#x20;
+Staking refers to the process where you lock up your funds in a secure [Smart Contract](#6.-what-are-smart-contracts) for the benefit of a network and receive rewards in return. These rewards can be thought of as analogous to interest earned over time on staked funds.&#x20;
 
-Staking using the DEV Tokens means that Patrons are depositing the DEV Tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with DEV Tokens.
+When it comes to staking with DEV Tokens, it involves Patrons depositing these tokens into a smart contract associated with the specific Creator they wish to sustainably support. By doing so, both the Patron and the Creator are rewarded with DEV Tokens.
 
 ### 13. What is a Pool?
 
-A Staking Pool is a [Smart Contract](#6.-what-are-smart-contracts) where stakeholders deposit their tokens in order to generate rewards. They allow people to make passive income with predictable and frequent staking rewards.
+A Staking Pool is a specific type of [Smart Contract](#6.-what-are-smart-contracts) where stakeholders deposit their tokens with the aim of earning rewards. Staking Pools provide an opportunity for individuals to generate passive income through consistent and predictable staking returns.
 
-Specifically, Staking Poos allow users to combine their resources in order to increase their chances of earning rewards, and for that, the rewards are split among the many participants of the pool. These rewards are typically estimated and expressed in APY (Annual Percentage Yield).
+More specifically, Staking Pools allow users to pool their resources together, thereby increasing their collective chances of earning rewards. Consequently, these rewards are distributed among all participants in the pool. These potential earnings are often projected and expressed as an Annual Percentage Yield (APY).
 
-In Cobogo, Patrons can stake their DEV tokens on a YouTube Creator's pool, and both Patron and Creator get the rewards, in a 49%/51% split.
+For instance, in the case of Cobogo, Patrons can stake their DEV tokens in a pool associated with a particular YouTube Creator. Both the Patron and the Creator share the rewards generated, with a split of 49% to the Patron and 51% to the Creator.
 
 ### 14. What are NFTs?
 
-A NFT, or Non-Fungible Token, is a type of token that can't be divided into smaller sections unlike most coins. They represent ownership of unique digital assets on the blockchain, and are vastly used by artist, who can now distribute their work and be paid in full with little or no involvement from middlemen.
+An NFT, or Non-Fungible Token, is a unique form of digital token that, unlike typical cryptocurrencies, cannot be broken down into smaller increments. Each NFT signifies exclusive ownership of a specific digital asset on the blockchain. NFTs have become an invaluable tool for artists, allowing them to digitize their work, directly reach their audience, and receive comprehensive payments with minimal or zero third-party intervention.
 
 ### 15. What are Tokenomics?
 
-Tokenomics concerns the monetary policy that a project has to create for its currency, and that includes the distribution and issuance of a token, how these will affect the price of the token in the future, how changes to the model can be enacted at a later date, and more
+Tokenomics refers to the economic architecture that a project must design for its digital currency. This architecture encompasses elements such as the distribution and supply of tokens, the potential influence on the future price of the token and the ability for future modifications to the original model, among others. 
 
-This process is usually developed before the token is released and tweaked over time.&#x20;
+This blueprint for the token's economic ecosystem is typically developed prior to the token's launch and can be refined over time as needed.&#x20;
 
 ### 16. What is Layer 2 (L2)?
 
-Layer 2 refers to a secondary framework built on top of the Ethereum blockchain. It is mostly used to solve the transaction speed and scaling difficulties faced by the Ethereum Mainnet.
+Layer 2 refers to a supplementary structure established atop the Ethereum blockchain. Its primary function is to address transaction speed and scalability issues found on the Ethereum Mainnet. 

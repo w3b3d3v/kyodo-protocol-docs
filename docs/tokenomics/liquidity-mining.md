@@ -5,8 +5,8 @@ permalink: /tokenomics/liquidity-mining
 
 # Liquidity Mining
 
-A total of 6,000,000 KYD tokens will be distributed to those who provide liquidity to KYD, in future liquidity programs. This share of the total supply will be used as an incentive for liquidity providers, as a way to counterbalance impermanent loss caused by liquidity providing risks and volatility.
+We are reserving 6 million KYD tokens specifically for liquidity providers in future liquidity schemes. This share of the total supply will serve as an incentive for these providers, helping offset the impermanent loss they may experience due to the risks and volatility involved in providing liquidity.
 
-The more liquidity someone provides, and for longer, the greater share of the KYD pool they will receive. We have not decided yet what program will be used and in which DEXs we will launch a pool and create incentives for LPs.
+The principle is simple: the more liquidity you offer and the longer you hold it, the greater your share in the KYD pool. However, we are still in the process of deciding which specific program to use and which decentralized exchanges (DEXs) we will launch a pool and create incentives for liquidity providers (LPs).
 
-We may use partners that provide active liquidity management, or incentive vaults that maximize fee collection and liquidity. This way, we will be integrated with other crypto projects that will market our LP pool for a broader audience. It is also beneficial as it removes pressure over the team in managing LP programs and lets them focus on building.
+We're considering working with partners that offer active liquidity management or incentive vaults that optimize fee collection and liquidity. This would allow us to connect with other crypto projects that could promote our LP pool to a wider audience. It also helps free our team from the responsibility of managing the LP programs so they can focus on building and improving the project.
