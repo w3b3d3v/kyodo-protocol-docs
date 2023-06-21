@@ -5,27 +5,27 @@ permalink: /dao/introduction
 
 # Introduction
 
-Kyōdō DAO is a DAO (Decentralized Autonomous Organization) that aims to support the development of Kyōdō Protocol as a business. It is an open platform for proposals that are voted upon by [KYD](/tokenomics/token) token holders.
+Kyōdō DAO serves as a Decentralized Autonomous Organization (DAO) committed to promoting the growth and development of the Kyōdō Protocol as a viable business. The Kyōdō DAO provides an open platform for [KYD](/tokenomics/token) token holders to submit and vote on various proposals.
 
-Possible proposals include:
+Possible proposals may include:
 
-* partnerships
-* protocol development
-* project investments
-* tokenomics changes
+* Building collaborative partnerships;
+* Addressing aspects related to protocol development;
+* Project-based investment prospects;
+* Suggesting changes to tokenomics.
 
 ## Vision
 
-Our vision is a world of self-sustainable communities that deliver value for it members.
+We envision a world with self-sustaining communities that generate substantial value and benefits for their members.
 
 ## Mission
 
-To support communities to maintain a healthy business model, professionals to work in their dream jobs and companies to hire the best people at reasonable time.
+Our mission is threefold: empower communities with robust business models, help professionals land their dream jobs, and enable companies to efficiently attract top talent.
 
 ## Principles
 
-* Kyōdō DAO is not a traditional company. It does not have a management team or employees. It is a [entity](/dao/entity) whose members are the KYD token holders.
-* Kyōdō DAO is [governed](/dao/governance) by its members. Any member can propose partnerships, investments, or product development. Members will vote on whether to approve or reject these proposals.
-* Kyōdō DAO will rely on a [service provider](/dao/service-provider) to facilitate various administrative functions.
+* Kyōdō DAO differs from conventional corporate structures. It does not have a standard management team or workforce. Rather, it is an [entity](/dao/entity) of KYD token holders.
+* Kyōdō DAO's [governance](/dao/governance) is based on a democratic model, with each member being able to propose possible partnerships, potential investments, and improvements in product development. The acceptance or rejection of these proposals is also determined by the vote of the members.
+* While Kyōdō DAO operates independently, it does utilize a [service provider](/dao/service-provider) to manage various administrative tasks.
 
-_This documentation was based on_ [_BitDAO docs_](https://docs.bitdao.io)_._
+*This documentation has been inspired and modeled on [BitDAO docs](https://docs.bitdao.io).*

@@ -6,7 +6,7 @@ permalink: /
 # 共同 Kyōdō Protocol
 Sustainable Business Model for Service Communities and DAOs
 
-<!-- vide goes here -->
+<!-- video goes here -->
 
 ## What is the Kyōdō Protocol
 
