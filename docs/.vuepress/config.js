@@ -30,52 +30,43 @@ export default defineUserConfig({
         link: "/",
       },
       {
-        text: 'Overview',
-        children: [
-          '/introduction',
-          '/market-fit',
-          '/how-it-works',
-          '/benefits',
-          '/faq'
-        ],
+        text: "Overview",
+        children: ["/introduction", "/market-fit", "/how-it-works", "/benefits", "/faq"],
       },
-      '/blockchain-basics',
+      "/blockchain-basics",
       {
-        text: 'The Protocol',
+        text: "The Protocol",
         children: [
-          '/the-protocol/overview',
-          '/the-protocol/concepts',
-          '/the-protocol/roles',
-          '/the-protocol/definitions'
+          "/the-protocol/overview",
+          "/the-protocol/concepts",
+          "/the-protocol/roles",
+          "/the-protocol/definitions",
         ],
       },
       {
-        text: 'Tokenomics',
+        text: "Tokenomics",
         children: [
-          '/tokenomics/token',
-          '/tokenomics/supply',
-          '/tokenomics/liquidity-mining',
-          '/tokenomics/treasury',
-          '/tokenomics/disclaimers'
+          "/tokenomics/token",
+          "/tokenomics/supply",
+          "/tokenomics/liquidity-mining",
+          "/tokenomics/treasury",
+          "/tokenomics/disclaimers",
         ],
       },
       {
-        text: 'DAO',
+        text: "DAO",
         children: [
-          '/dao/introduction',
-          '/dao/governance',
-          '/dao/constitution',
-          '/dao/entity',
-          '/dao/service-provider'
+          "/dao/introduction",
+          "/dao/governance",
+          "/dao/constitution",
+          "/dao/entity",
+          "/dao/service-provider",
         ],
       },
       {
-        text: 'About',
-        children: [
-          '/about/founders',
-          '/about/web3dev'
-        ],
-      }
+        text: "About",
+        children: ["/about/founders", "/about/web3dev"],
+      },
       // {
       //   text: 'Benefits',
       //   children: [
@@ -90,7 +81,7 @@ export default defineUserConfig({
   }),
   plugins: [
     googleAnalyticsPlugin({
-      id: "G-XXXXXXXXXX",
+      id: "G-2FGEVX605M",
     }),
     backToTopPlugin(),
     externalLinkIconPlugin(),
