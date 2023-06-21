@@ -12,23 +12,23 @@ In essence, the Community Protocol offers a unique alternative to the traditiona
 
 The [**Community**](/the-protocol/roles/#community) benefits from ensuring a sustainable business model, which is achieved by facilitating the hiring of its members by third parties. This business model revolves around maintaining a vibrant and engaged community, offering the sector an optimized recruitment and selection service, and using the resources generated to provide benefits to its Members and the Professionals hired.
 
-- A sustainable business model;
-- A reliable source of recurring revenue;
-- An effective approach to attract professionals in the same field;
-- Enhanced member engagement through job opportunities;
-- Sustained growth and development.
+- A sustainable business model
+- A reliable source of recurring revenue
+- An effective approach to attract professionals in the same field
+- Enhanced member engagement through job opportunities
+- Sustained growth and development
 
 ## For Professionals
 
 [**Professionals**](/the-protocol/roles/#professional) stand to gain numerous benefits by choosing to receive their remuneration through the **Protocol**. The individual not only reaps the benefits extended by the community, but also, in the case of DAOs, gains a stake in the business. The aim is to keep the [**Community**](/the-protocol/roles/#community) Fee lower than those usually charged by market intermediaries, reducing barriers for Professionals who choose to have their payments from [**Contractors**](/the-protocol/roles/#contractor) processed through the **Protocol**.
 
-- Access to community benefits;
-- Proof of Resume;
-- Skill badges, weighted based on the financial value received;
-- Use of a robust billing tool;
+- Access to community benefits
+- Proof of Resume
+- Skill badges, weighted based on the financial value received
+- Use of a robust billing tool
 - In the case of DAOs:
-  - Stake in community ownership;
-  - Governance over Treasury holding Community Fees (equivalent to owning a share of PayPal).
+  - Stake in community ownership
+  - Governance over Treasury holding Community Fees (equivalent to owning a share of PayPal)
 
 ## For Contractors
 

@@ -9,10 +9,10 @@ Kyōdō DAO serves as a Decentralized Autonomous Organization (DAO) committed to
 
 Possible proposals may include:
 
-* Building collaborative partnerships;
-* Addressing aspects related to protocol development;
-* Project-based investment prospects;
-* Suggesting changes to tokenomics.
+* Building collaborative partnerships
+* Addressing aspects related to protocol development
+* Project-based investment prospects
+* Suggesting changes to tokenomics
 
 ## Vision
 

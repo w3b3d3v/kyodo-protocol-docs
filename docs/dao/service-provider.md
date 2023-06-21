@@ -9,12 +9,12 @@ The Kyōdō DAO is governed by its members without a designated general partner,
 
 ## Responsibilities
 
-* Compiling and distributing yearly financial statements.
-* Authenticating information pertaining to partnerships.
-* Overseeing the development of the protocol.
-* Driving the business development efforts.
-* Implementing proposals approved by members.
-* Managing administrative tools.
+* Compiling and distributing yearly financial statements
+* Authenticating information pertaining to partnerships
+* Overseeing the development of the protocol
+* Driving the business development efforts
+* Implementing proposals approved by members
+* Managing administrative tools
 
 From a legal perspective, the service provider assumes the role of the DAO's director.
 

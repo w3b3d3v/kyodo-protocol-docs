@@ -7,9 +7,9 @@ permalink: /dao/governance
 
 Kyōdō DAO is collectively owned and operated by holders of the KYD token. Our established policy states that certain actions can only be taken following a successful proposal and subsequent voting process. These actions include:
 
-* Allocation of treasury resources for funding, liquidity, and investment purposes;
-* Changes in service providers;
-* Updates to tokenomics, encompassing governance, supply, and distribution facets.
+* Allocation of treasury resources for funding, liquidity, and investment purposes
+* Changes in service providers
+* Updates to tokenomics, encompassing governance, supply, and distribution facets
 
 The implementation of our governance model will occur gradually and in phases. Initially, all decisions will be made by the founders of the Kyōdō Protocol. Over time, responsibility for decision-making will pass into the hands of the community.
 
