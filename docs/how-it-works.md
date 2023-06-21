@@ -36,9 +36,9 @@ The Skills Index record will serve as a Proof of Resume for the member. At any t
 
 Members have the ability to mint a non-fungible token (NFT) that reflects the weighted value of their Skills. This allows the community to form a ranked list of professionals based on their skills, making it easier for companies to locate the talent they require. This NFT is Soulbound, meaning it is non-transferable between wallets. The [**Community Fee**](/the-protocol/definitions/#community-fee) generates revenue that goes into the community's treasury. This revenue can be used to provide various benefits to members, such as:
 
-- A benefit club, with discounts at establishments that interest the community;
-- Active recruitment of companies to hire members;
-- Provision of training, courses, and free education for the entire community or for members who participate in the protocol.
+- A benefit club, with discounts at establishments that interest the community
+- Active recruitment of companies to hire members
+- Provision of training, courses, and free education for the entire community or for members who participate in the protocol
 
 The community token can serve as an access pass to certain community services or areas. It can also function as a governance token, should the community decide to transition into a Decentralized Autonomous Organization (DAO).
 

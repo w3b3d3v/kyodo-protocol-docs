@@ -5,23 +5,23 @@ permalink: /dao/service-provider
 
 # Service Provider
 
-Kyōdō DAO is member-managed and does not have any general partner. So it will rely on a service provider to facilitate various administrative functions on behalf of the members.
+The Kyōdō DAO is governed by its members without a designated general partner, therefore it relies on a service provider to carry out a variety of administrative tasks on behalf of the members.
 
 ## Responsibilities
 
-* preparing and sending annual financial reports;
-* validating information related to partnerships;
-* development of the protocol;
-* business development of the business;
-* executing the proposals approved by members;
-* administration of tools.
+* Compiling and distributing yearly financial statements
+* Authenticating information pertaining to partnerships
+* Overseeing the development of the protocol
+* Driving the business development efforts
+* Implementing proposals approved by members
+* Managing administrative tools
 
-From the legal perspective, the service provider is the company nominated as the director of the DAO.
+From a legal perspective, the service provider assumes the role of the DAO's director.
 
 ::: tip
-Kyōdō DAO and its members are responsible for the costs and expenses related to all activities, operations, and maintenance, as detailed in the operating agreement. It includes paying the fees for the service provider.
+The Kyōdō DAO and its members are collectively responsible for all costs and expenses associated with the activities, operations and maintenance of the DAO as described in the operating agreement. This also includes paying fees to the service provider.
 :::
 
-## Pricing
+## Fee Structure
 
-The pricing for the services will be proposed by the service provider and approved by member through on-chain vote.
+The fee structure for these services will be proposed by the service provider and ratified by the members through an on-chain voting mechanism.

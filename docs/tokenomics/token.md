@@ -5,27 +5,27 @@ permalink: /tokenomics/token
 
 # KYD Token
 
-KYD is the official token of Kyōdō Protocol.
+The KYD Token is the official token of the Kyōdō Protocol.
 
 ::: warning
-The token is not a security token and should not be seen as such. It has no financial value and is not an investment asset. Please read the [legal disclaimers](/tokenomics/disclaimers).
+It's crucial to understand that the KYD token is not a security token and should not be viewed as one. It carries no financial value and is not an investment asset. For further details, refer to our [legal disclaimers](/tokenomics/disclaimers).
 :::
 
 * **Name:** Kyōdō Token
-* **Ticker:** KYD
-* **Max Supply:** 100,000,000
-* **Network:** TBD (maybe Avalanche)
+* **Token Symbol:** KYD
+* **Maximum Supply:** 100,000,000
+* **Network:** To Be Decided (possibly Avalanche)
 
 ## $KYD Token Address
 
-⚠️ The token has not yet been minted and is not listed on any exchange.
+⚠️ Please note that the KYD token has not yet been minted and is not currently listed on any exchanges.
 
 ## Governance
 
-KYD can also be seen as a Governance Token as it gives the right for token holders to vote on the decisions of the DAO, as well as make Signal and Core Proposals.
+The KYD Token functions as a Governance Token, allowing its holders to participate in the DAO's decision-making process. This includes the ability to vote and submit Signal and Core Proposals.
 
-Keep in mind that the governance will be implemented gradually and in phases. In the beginning, all decisions will be made by the founders of Kyōdō Protocol, then they will be handled by the community.
+Keep in mind that implementing governance will happen gradually and in stages. Initially, the Kyōdō Protocol founders will make all the decisions, which will later transition to community-led decision-making.
 
-1 KYD equals to 1 vote, so the more KYD the holder has, the more power over the DAO they will have. 
+Voting power is proportional to the number of KYD tokens held - one KYD token equals one vote. Thus, the more KYD tokens a holder has, the more influence they wield within the DAO.
 
-This includes power over the Treasury and the future of developments and integrations.
+This influence extends to Treasury decisions as well as the direction of future developments and integrations.

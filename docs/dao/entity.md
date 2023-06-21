@@ -6,96 +6,57 @@ permalink: /dao/entity
 # Legal Entity
 
 ::: warning
-The entity was not incorporated yet.
+The entity has not been incorporated as of yet.
 :::
 
 ## The Kyōdō DAO LLC
 
-The Kyōdō DAO will be represented in the real world by a Republic of the Marshall Islands for-profit DAO LLC.
+Kyōdō DAO plans to establish a physical representation in the form of a for-profit DAO LLC, incorporated in the Republic of the Marshall Islands.
 
-## The importance to have a legal entity
+## The Importance of Having a Legal Entity
 
-Having a legal entity that represents the DAO in the "real world" is valuable for a number of reasons:
+A legal entity to represent the DAO in the "real world" is essential due to the following reasons:
 
-* It provides limited liability to DAO members for the actions of the DAO. Without a legal entity, members may be individually held liable for anything the DAO as a whole does.
-* It is capable of complying with taxation requirements - without a legal entity, DAO members may be held liable for a proportion of the DAO's income, even if they are not able to access these funds.
-* It is capable of entering into contracts with other "real world" entities, holding assets (including IP rights), and so forth.
+* It provides liability protection for individuals, shielding them from personal liability for the DAO's actions. In the absence of a legal entity, members could be held personally responsible for the activities of the DAO.
+* Allows compliance with tax regulations. Without a legal entity, DAO members may be liable for a percentage of DAO revenue even if they cannot access those funds.
+* It allows the DAO to enter into contracts with other "real world" entities, own assets (including intellectual property rights), and much more.
 
-For a more detailed discussion on this topic, see [this excellent blog post](https://mirror.xyz/0x954888B7a5C6736F4955dF18B556D8328FD02f61/5K9llACK4tzu5WHL68CM3bBsmSleL\_XxJ2kRGYnwp7A).
+For an in-depth analysis on this subject, please refer to [this insightful blog post](https://mirror.xyz/0x954888B7a5C6736F4955dF18B556D8328FD02f61/5K9llACK4tzu5WHL68CM3bBsmSleL\_XxJ2kRGYnwp7A).
 
-## RMI DAO LLC as a Solution
+## Solution Provided by RMI DAO LLC
 
-Like a typical company, the LLC has legal personality to enter into contracts and undertake actions with third parties. It is also managed by directors who carry on the business of the DAO. However, unlike a company, the RMI DAO LLC can be structured without shareholders.
+Much like a traditional company, the LLC has standing to sign contracts and engage with third parties. It is managed by directors who oversee DAO operations. However, it differs from a typical company as RMI DAO LLC can be structured without any shareholders.
 
-In essence, it can be ownerless – just like the DAO it represents. In place of shareholders, the DAO can be supervised by a supervisor (or even multiple supervisors if desired).
+In essence, it can operate without owners, mirroring the DAO it symbolizes. Instead of shareholders, the DAO can be regulated by a supervisor (or multiple supervisors, if necessary).
 
-A supervisor has no ownership or economic entitlement over the foundation company but simply acts as a steward, ensuring that the directors of the foundation company observe their obligations to the DAO in the terms of the foundation company's governing documents. Therefore, with no shareholders, all of the officers from the foundation company simply have the objectives of the DAO as their priority – similar to trustees and enforcers carrying out the objectives of a trust.
+A supervisor has no ownership or financial claim to the LLC, but acts as a trustee, ensuring that the LLC's directors fulfill their responsibilities to the DAO as outlined in the company's governing documents. Consequently, without shareholders, all of the officers from the foundation company primarily focus on achieving the DAO's goals – analogous to the trustees and enforcers who fulfill the objectives of a trust.
 
-## Benefits of RMI DAO LLC
+## Advantages of RMI DAO LLC
 
-* No trustees, directors, officers, or managers with extra liability or responsibility
-* All documents and records can be kept on the blockchain
-* Most members can remain anonymous
-* Governance by smart contract allowed by law
+* No trustees, directors, officers, or managers with additional liability or responsibility.
+* All documents and records can be stored on the blockchain.
+* Most members can remain anonymous.
+* Smart contract governance allowed by law.
 
-## Relationship with the United States
-The RMI is a sovereign nation not
-under US jurisdiction. Many of its
-laws, such as its corporate laws, are
-based on the laws of Delaware. RMI
-courts will even look to case law in
-Delaware if no statute or case law
-exists on a matter in the RMI.
+## US & Marshall Islands Relations
 
-## Digital Asset Regulations
-Currently, there are no digital asset,
-token, or protocol-related laws or
-regulations in the RMI, except for
-companies that engage in the
-custody of digital assets on behalf of
-others. The plan is to introduce
-innovative, tech-forward legislation
-and regulation over time that applies
-to digital assets, tokens, and
-protocols.
+The Republic of the Marshall Islands (RMI) is a sovereign nation and does not fall under the jurisdiction of the United States. A significant portion of its laws, such as those relating to corporations, are based on the laws of Delaware. When there is no specific RMI statute or case law to refer to, RMI courts often turn to Delaware case law for guidance.
+
+## Regulation of Digital Assets
+
+Currently, there are no specific laws or regulations in the RMI relating to digital assets, tokens or protocols, except for companies that take custody of digital assets on behalf of others. The intention, however, is to gradually introduce innovative technology legislation and regulations that apply to digital assets, tokens and protocols.
 
 ## Why the Marshall Islands?
-The Republic of the Marshall Islands
-(RMI) has been a global leader in
-shipping company jurisdictions for
-over five decades. Over 40 public
-companies traded on NASDAQ and
-NYSE and companies representing
-over 20% of the world's shipping
-capacity are incorporated in the RMI.
-Now, the RMI is applying what it has
-learned in shipping to become the
-leading global jurisdiction for DAOs.
 
-## Compliance
-The RMI is dedicated to following
-international standards regarding
-topics such as beneficial ownership.
-DAO members with 25%+
-governance rights in DAO LLCs and
-any Managing Members must
-complete KYC, providing their real
-name, address, and passport.
-Additionally, on-chain activity will be
-monitored for Anti-Money Laundering
-(AML) and Countering the Financing
-of Terrorism (CFT). The RMI is proud
-not to be part of any blacklists.
+The Republic of the Marshall Islands boasts a long-standing history as a leading jurisdiction for the registration of shipping companies, spanning over half a century. More than 40 publicly traded companies on the NASDAQ and NYSE, along with entities representing more than 20% of the global shipping capacity, are incorporated in the RMI. Leveraging its extensive experience in the shipping industry, the RMI is now aiming to become the leading global jurisdiction for Decentralized Autonomous Organizations (DAOs).
 
-## Taxes
-For-profit DAO LLCs will be subject
-to the 3% Gross Revenue Tax (GRT)
-on their earned revenue. This
-includes interest payments but does
-not include capital gains and
-dividends. For-profit DAO members
-may be subject to additional taxes by
-their local jurisdictions.
+## Commitment to Compliance
+
+The RMI is committed to upholding international standards on issues such as beneficial ownership. DAO members who hold 25% or more governance rights in DAO LLCs, and any Managing Members, are required to complete Know Your Customer (KYC) procedures, including disclosure of their real name, address, and passport details. In addition, on-chain activities will be monitored for Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT) purposes. The RMI takes pride in not featuring on any international blacklists.
+
+## Taxation
+
+For-profit DAO LLCs will be subject to a 3% Gross Revenue Tax (GRT) on their generated revenue. This includes interest payments but excludes capital gains and dividends. DAO members may be subject to additional taxes in their respective local jurisdictions, depending on local laws.
 
 ## Documents
 

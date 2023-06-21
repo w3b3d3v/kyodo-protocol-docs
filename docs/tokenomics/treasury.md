@@ -5,6 +5,6 @@ permalink: /tokenomics/treasury
 
 # DAO Treasury
 
-20% of the supply of the KYD token will be held by the DAO Treasury. At time zero, this means that it will hold 10,000,000 KYD. This treasury will keep expanding, as long as new fees are collected.
+DAO Treasury will hold 20% of the total supply of KYD tokens, which initially amounts to 10 million KYD. Treasury holdings will continue to grow over time as new fees are collected.
 
-The community will decide strategically what to do with the Treasury in the Kyōdō DAO by vote, including partnerships, liquidity programs, and more.
+Strategic decisions regarding the use of the DAO Treasury, including establishing partnerships, launching liquidity programs, and more, will be made by the Kyōdō DAO community through a voting process.
