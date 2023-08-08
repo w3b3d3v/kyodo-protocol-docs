@@ -33,6 +33,7 @@ export default defineUserConfig({
         text: "Overview",
         children: ["/introduction", "/market-fit", "/how-it-works", "/benefits", "/faq"],
       },
+      "/zero-knowledge-proofs",
       "/blockchain-basics",
       {
         text: "The Protocol",

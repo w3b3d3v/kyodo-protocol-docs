@@ -10,7 +10,7 @@ Sustainable Business Model for Service Communities and DAOs with Enhanced Privac
 
 ## What is the Kyōdō Protocol
 
-The Kyōdō Protocol is a system focused on the relationship between communities, employers, and professionals, with an emphasis on privacy and data security through Zero Knowledge Proofs.
+The Kyōdō Protocol is a system focused on the relationship between communities, employers, and professionals, with an emphasis on privacy and data security through [Zero Knowledge Proofs (ZKP)](/zero-knowledge-proofs).
 
 The protocol provides a software framework that resolves the issues companies encounter when hiring professionals, offers perks and proof of experience for these hired professionals, and enables a sustainable business model for communities, all while ensuring that sensitive data remains confidential.
 
