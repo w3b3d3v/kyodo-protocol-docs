@@ -23,60 +23,31 @@ The ultimate goal of our business model is to connect qualified individuals with
 
 ## References
 
-Hire Talents:
-[https://www.web3dev.team/](https://www.web3dev.team/)
-
-Brand Activation:
-[https://www.web3dev.media/](https://www.web3dev.media/)
-
-Github:
-[https://github.com/w3b3d3v/](https://github.com/w3b3d3v/)
+### Ecosystem
+- [**WEB3DEV Team**: Hire talent web3 devs](https://www.web3dev.team/)
+- [**WEB3DEV Media**: DevRel as a Service and Brand Activation](https://www.web3dev.media/)
+- [**MelkDAO**: Learn-to-Earn web3 bot](https://www.melkdao.xyz/)
+- [**共同 Kyōdō Protocol**](https://kyodoprotocol.xyz)
+### Social
+- [Github](https://github.com/w3b3d3v/)
+- [Linkedin](https://www.linkedin.com/company/81345004/)
+- [Twitter](https://twitter.com/web3dev_)
+- [Instagram](https://instagram.com/web3dev_)
 
 ### In Portuguese
 
-Website:
-[[https://www.web3dev.com.br/](https://www.web3dev.com.br/)
-
-Manual:
-[https://docs.web3dev.com.br/](https://docs.web3dev.com.br/)
-
-Agenda da Comunidade:
-[https://l.web3dev.com.br/agendacomunidade](https://l.web3dev.com.br/agendacomunidade)
-
-Plataforma de Builds:
-[https://build.w3d.community/](https://build.w3d.community/)
-
-Discord:
-[https://pt.discord.w3d.community/](https://pt.discord.w3d.community/)
-
-Youtube:
-[https://www.youtube.com/c/web3dev?sub_confirmation=1](https://www.youtube.com/c/web3dev?sub_confirmation=1)
-
-Linkedin:
-[https://www.linkedin.com/company/81345004/](https://www.linkedin.com/company/81345004/)
-
-Twitch:
-[https://www.twitch.tv/web3dev](https://www.twitch.tv/web3dev)
-
-Twitter:
-[https://twitter.com/web3dev_](https://twitter.com/web3dev_)
-
-Instagram:
-[https://instagram.com/web3dev_](https://instagram.com/web3dev_)
-
-Guia Solidity [Apostila, Códigos de Exmplo, Vulnerabilidades e ++]
-[https://solidity.w3d.community/](https://solidity.w3d.community/)
-
-Glossário:
-[https://glossario.web3dev.com.br/](https://glossario.web3dev.com.br/)
+- [Website](https://www.web3dev.com.br/)
+- [Docs](https://pt.docs.w3d.community/)
+- [Agenda da Comunidade](https://l.web3dev.com.br/agendacomunidade)
+- [Plataforma de Builds](https://build.w3d.community/)
+- [Guia Solidity](https://solidity.w3d.community/)
+- [Glossário](https://glossario.web3dev.com.br/)
+- [Discord](https://pt.discord.w3d.community/)
+- [Youtube](https://www.youtube.com/c/web3dev?sub_confirmation=1)
+- [Twitch](https://www.twitch.tv/web3dev)
 
 ### In Spanish
 
-Website:
-[https://es.w3d.community/ ](https://es.w3d.community/ )
-
-Discord:
-[https://es.discord.w3d.community/ ](https://es.discord.w3d.community/ )
-
-Guia Solidity [Guía, Ejemplos, Hacks e ++]:
-[https://solidity.w3d.community/es/](https://solidity.w3d.community/es/)
+- [Website](https://es.w3d.community/ )
+- [Discord](https://es.discord.w3d.community/ )
+- [Guia Solidity](https://solidity.w3d.community/es/)
