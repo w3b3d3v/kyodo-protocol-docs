@@ -11,9 +11,13 @@ import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default defineUserConfig({
   title: "共同 Kyōdō Protocol",
+  description:
+    "Sustainable Business Model for Service Communities and DAOs with Enhanced Privacy through Zero Knowledge Proofs",
   permalinkPattern: ":slug",
   theme: defaultTheme({
     // default theme config
+    // logo: "/logo.svg",
+    // logoDark: "/logoDark.svg",
     navbar: [
       {
         text: "Home",

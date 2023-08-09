@@ -1,9 +1,8 @@
 ---
-title: 共同 Kyōdō Protocol
 permalink: /
 ---
 
-# 共同 Kyōdō Protocol
+# Welcome
 Sustainable Business Model for Service Communities and DAOs with Enhanced Privacy through Zero Knowledge Proofs
 
 <!-- video goes here -->
