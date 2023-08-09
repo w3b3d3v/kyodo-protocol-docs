@@ -82,7 +82,7 @@ export default defineUserConfig({
   }),
   plugins: [
     googleAnalyticsPlugin({
-      id: "G-2FGEVX605M",
+      id: "G-XWH1M1SMFD",
     }),
     backToTopPlugin(),
     externalLinkIconPlugin(),
