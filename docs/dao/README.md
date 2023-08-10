@@ -1,6 +1,6 @@
 ---
 description: The Kyōdō DAO is a DAO that governs the Kyōdō Protocol.
-permalink: /dao/introduction
+permalink: /dao/
 ---
 
 # Introduction

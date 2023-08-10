@@ -5,12 +5,12 @@ permalink: /the-protocol/overview
 
 # Protocol Overview
 
-# Who should use Kyōdō?
+## Who should use Kyōdō?
 
-Kyōdō is specifically designed for communities that unite professionals within the same field of expertise. While the community implements the protocol, the most significant benefits are for professionals who opt to receive their compensation through Kyōdō. Such professionals, recognizing the protocol's value, especially with its enhanced privacy features using [Zero Knowledge Proofs (ZKP)](/zero-knowledge-proofs), are encouraged to advocate its adoption to community leaders.
+Kyōdō is specifically designed for communities that unite professionals within the same field of expertise. While the community implements the protocol, the most significant benefits are for professionals who opt to receive their compensation through Kyōdō. Such professionals, recognizing the protocol's value, especially with its enhanced privacy features using [Zero Knowledge Proofs (ZKP)](/zkp), are encouraged to advocate its adoption to community leaders.
 
 Adopting the Kyōdō protocol allows a professional community to empower its members, enhancing their market position, akin to the effects seen in cooperative models, but with the added advantage of ZKP-backed privacy and security.
-# How does Kyōdō differ from other options?
+## How does Kyōdō differ from other options?
 
 Some protocols, like [Proof-of-Talent](https://proofoftalent.org/), aim to build an experience index based on various factors. However, Kyōdō believes that combining multiple assessment methods results in a diluted and less relevant index. Instead, Kyōdō focuses on a single, robust metric: the financial amount earned using a specific skill. This approach is further fortified by ZKP, ensuring that while professionals can prove their earnings and skills, the specifics remain confidential.
 
@@ -24,7 +24,7 @@ On the other hand, if an individual charges a lower rate for their hourly work b
 
 In essence, the total amount of money earned, correlated with the required skill, provides the most accurate and effective measure of an individual's experience.
 
-# Limitations
+## Limitations
 
 To claim that a person's experience is based solely on the relationship between the hours worked in a specific skill and the compensation received is, in fact, overly simplistic.
 

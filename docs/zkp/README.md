@@ -1,5 +1,6 @@
 ---
-title: Zero Knowledge Proofs (ZKP)
+title: Introduction to ZKP
+permalink: /zkp/
 ---
 
 # Zero Knowledge Proofs (ZKP)

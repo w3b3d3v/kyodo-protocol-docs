@@ -4,7 +4,7 @@ title: Benefits
 
 # Benefits
 
-The protocol, enhanced with [Zero Knowledge Proofs (ZKP)](/zero-knowledge-proofs), offers a wide range of benefits for all parties involved. The communities gain a sustainable business model and a strategy to attract professionals. Professionals obtain Proof of Resume, community benefits and, in cases of DAOs, a stake in the community. Contractors gain a tool for efficient hiring and management, all while ensuring data privacy and security.
+The protocol, enhanced with [Zero Knowledge Proofs (ZKP)](/zkp), offers a wide range of benefits for all parties involved. The communities gain a sustainable business model and a strategy to attract professionals. Professionals obtain Proof of Resume, community benefits and, in cases of DAOs, a stake in the community. Contractors gain a tool for efficient hiring and management, all while ensuring data privacy and security.
 
 In essence, the Kyōdō Protocol offers a unique alternative to the traditional hiring process. It uses blockchain technology, combined with ZKP, to create transparent, efficient, and mutually beneficial relationships between professionals, communities, and businesses without compromising sensitive information.
 ## For the Community

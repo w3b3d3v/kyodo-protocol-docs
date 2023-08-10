@@ -27,6 +27,7 @@ export default defineUserConfig({
     editLink: false,
     lastUpdated: true,
     sidebarDepth: 0,
+
     sidebar: [
       // SidebarItem
       {
@@ -37,17 +38,20 @@ export default defineUserConfig({
         text: "Overview",
         children: ["/introduction", "/market-fit", "/how-it-works", "/benefits", "/faq"],
       },
-      "/zero-knowledge-proofs",
-      "/blockchain-basics",
       {
         text: "The Protocol",
         children: [
-          "/the-protocol/overview",
+          "/the-protocol/",
           "/the-protocol/concepts",
           "/the-protocol/roles",
           "/the-protocol/definitions",
         ],
       },
+      {
+        text: "Zero Knowledge Proofs (ZKP)",
+        children: ["/zkp/", "/zkp/implementation"],
+      },
+      "/blockchain-basics",
       {
         text: "Tokenomics",
         children: [
@@ -61,7 +65,7 @@ export default defineUserConfig({
       {
         text: "DAO",
         children: [
-          "/dao/introduction",
+          "/dao/",
           "/dao/governance",
           "/dao/constitution",
           "/dao/entity",
@@ -72,14 +76,6 @@ export default defineUserConfig({
         text: "About",
         children: ["/about/founders", "/about/web3dev"],
       },
-      // {
-      //   text: 'Benefits',
-      //   children: [
-      //     '/community',
-      //     '/professionals',
-      //     '/contractors'
-      //   ],
-      // },
     ],
     repo: "https://github.com/w3b3d3v/kyodo-protocol-docs",
     docsRepo: "https://github.com/w3b3d3v/kyodo-protocol-docs",
